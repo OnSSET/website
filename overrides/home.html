@@ -1,0 +1,94 @@
+{% extends "main.html" %}
+
+{% block tabs %}{% endblock %}
+
+{% block content %}
+<section class="onsset-hero">
+  <div class="onsset-hero__inner">
+    <div class="onsset-hero__text">
+      <h1>OnSSET</h1>
+      <p class="lead">
+        Transparent, geospatial least-cost modelling for planners and researchers.
+      </p>
+
+      <div class="cta">
+        <a class="md-button md-button--primary" href="{{ 'get-started/' | url }}">Get started</a>
+        <a class="md-button" href="https://electrifynow.energydata.info/" target="_blank" rel="noopener">Explore results</a>
+        <a class="md-button" href="https://github.com/orgs/OnSSET/repositories" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+
+    <div class="onsset-hero__card">
+      <div class="kpi">
+        <div class="kpi__num">58</div>
+        <div class="kpi__label">Countries with GEP starter datasets</div>
+      </div>
+      <div class="links">
+        <a href="https://energydata.info/group/gep" target="_blank" rel="noopener">Browse GEP datasets →</a>
+        <a href="https://www.open.edu/openlearncreate/course/view.php?id=16177" target="_blank" rel="noopener">OpenLearn course →</a>
+        <a href="https://forum.u4ria.org/t/potential-topics-for-new-developments/530" target="_blank" rel="noopener">Modelling forum →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="trust">
+  <div class="trust__inner trust__inner--three">
+
+    <!-- LEFT: Partners -->
+    <div class="trust-col trust-col--partners">
+      <div class="trust-title">Supported by</div>
+      <div class="trust-value">
+        An open global community & institutional partners
+      </div>
+
+      <div class="trust-logos">
+        <img src="{{ 'assets/logos/kth.png' | url }}" alt="KTH" />
+        <img src="{{ 'assets/logos/ccg.png' | url }}" alt="Climate Compatible Growth" />
+        <img src="{{ 'assets/logos/seforall.png' | url }}" alt="SEforALL" />
+        <img src="{{ 'assets/logos/wri.png' | url }}" alt="WRI" />
+      </div>
+    </div>
+
+    <!-- MIDDLE: Applied in -->
+    <div class="trust-col trust-col--metric">
+      <div class="trust-title">Applied in</div>
+      <div class="trust-number">58+</div>
+      <div class="trust-label">Countries & Regions</div>
+    </div>
+
+    <!-- RIGHT: Integrated with -->
+    <div class="trust-col trust-col--metric">
+      <div class="trust-title">Integrated with</div>
+      <div class="trust-number">GEP</div>
+      <div class="trust-label">Global Electrification Platform</div>
+    </div>
+
+  </div>
+</section>
+
+<section class="onsset-features">
+  <div class="onsset-features__grid">
+    <a class="tile" href="{{ 'data/' | url }}">
+      <h3>Data</h3>
+      <p>Sample datasets, templates, and input guidance.</p>
+    </a>
+    <a class="tile" href="{{ 'learn/' | url }}">
+      <h3>Learn</h3>
+      <p>Training material and teaching kit.</p>
+    </a>
+    <a class="tile" href="{{ 'community/' | url }}">
+      <h3>Community</h3>
+      <p>Forum, updates, and contribution channels.</p>
+    </a>
+    <a class="tile" href="{{ 'governance/' | url }}">
+      <h3>Governance</h3>
+      <p>Steering Committee updates and direction.</p>
+    </a>
+    <a class="tile" href="{{ 'publications/' | url }}">
+      <h3>Publications</h3>
+      <p>List of publications featuring OnSSET.</p>
+    </a>
+  </div>
+</section>
+{% endblock %}

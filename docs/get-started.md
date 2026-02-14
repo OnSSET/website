@@ -1,27 +1,15 @@
 # Get started
 
-This page helps you start using **OnSSET** quickly, either by exploring existing results/data (fastest) or running the tool locally.
+You can start with OnSSET in three ways: explore results, run locally, or follow guided learning.
 
-## Option A — Fastest: explore data and results first (no install)
-If you want to understand what OnSSET produces before running anything:
-- Global Electrification Platform (interactive): https://electrifynow.energydata.info/
-- Sample datasets (GEP, 58 countries): https://energydata.info/group/gep
+## 1. Explore results first (no installation)
+If you want to see outputs before running the model:
 
-## Option B — Run OnSSET locally (recommended for modelling work)
-### 1) Get the code
-- Main repository: https://github.com/OnSSET/onsset
+- [Global Electrification Platform (interactive results)](https://electrifynow.energydata.info/)
+- [GEP datasets (58 countries)](https://energydata.info/group/gep)
 
-### 2) Install Python requirements
-Follow the repository instructions for the most up-to-date setup.
+## 2. Run OnSSET locally
+You can experiment with the released code:
 
-If you are using conda, create a clean environment first (example):
-- Create a new env (Python 3.10+)
-- Install dependencies as described in the repo README / docs
-
-### 3) Run a first example
-Start with the example notebooks/workflow in the main repository:
-- https://github.com/OnSSET/onsset
-
-## Option C — Learn with guided material
-- OpenLearn course: https://www.open.edu/openlearncreate/course/view.php?id=16177
-- Teaching kit: https://onsset.github.io/teaching_kit/
+- [OnSSET main repository](https://github.com/OnSSET/onsset)
+- [All OnSSET related repositories](https://github.com/orgs/OnSSET/repositories)
