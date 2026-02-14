@@ -40,6 +40,7 @@ nav:
   - Governance: governance.md
   - Contribute: contribute.md
   - Publications: publications.md
+  - Publications (auto): publications.generated.md
 
 extra:
   social:
@@ -63,4 +64,9 @@ extra_css:
 
 extra_javascript:
   - javascripts/external-links.js
+
+plugins:
+  - search
+  - include-markdown
+
 

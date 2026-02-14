@@ -58,3 +58,7 @@ If you have used OnSSET in a publication or report, we encourage you to share it
 - Share in the modelling forum  
 
 This helps maintain a comprehensive and up-to-date record of applications.
+
+## Automatically updated
+
+--8<-- "publications.generated.md"
