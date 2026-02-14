@@ -1,0 +1,21 @@
+site_name: OnSSET
+site_url: https://onsset.org/
+repo_url: https://github.com/OnSSET/website
+repo_name: OnSSET/website
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Get started: get-started.md
+  - Data: data.md
+  - Learn: learn.md
+  - Community: community.md
+  - Governance: governance.md
+  - Contribute: contribute.md
+  - Publications: publications.md
