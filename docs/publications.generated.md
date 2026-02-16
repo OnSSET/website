@@ -20,11 +20,11 @@ No results found.
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503502 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503502 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -436,15 +436,15 @@ No results found.
 
 - **Achieving universal electricity access in line with SDG7 using GIS-based Model: An application of OnSSET for rural electrification planning in Nigeria**  
   Salisu Isihak — Energy Strategy Reviews — 2022  
-  DOI: https://doi.org/10.1016/j.esr.2022.101021 · Cited by: 19
+  DOI: https://doi.org/10.1016/j.esr.2022.101021 · Cited by: 20
+
+- **A GIS approach to electrification planning in Cameroon**  
+  Nadia S. Ouédraogo — Energy Strategy Reviews — 2022  
+  DOI: https://doi.org/10.1016/j.esr.2022.101020 · Cited by: 13
 
 - **Latent demand for electricity in sub-Saharan Africa: a review**  
   Charles Van-Hein Sackey, Todd Levin, Destenie Nock — Environmental Research Infrastructure and Sustainability — 2022  
   DOI: https://doi.org/10.1088/2634-4505/ac5fb2 · Cited by: 12
-
-- **A GIS approach to electrification planning in Cameroon**  
-  Nadia S. Ouédraogo — Energy Strategy Reviews — 2022  
-  DOI: https://doi.org/10.1016/j.esr.2022.101020 · Cited by: 12
 
 - **Geographic Information System Applied to Sustainability Assessments: Conceptual Structure and Research Trends**  
   Victor Tomaz de Oliveira, Denílson Teixeira, Lucia Rocchi, et al. — ISPRS International Journal of Geo-Information — 2022  
