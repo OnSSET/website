@@ -244,7 +244,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 54
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 56
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
@@ -322,6 +322,10 @@ No results found.
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — 2023  
   DOI: https://doi.org/10.5194/egusphere-2023-258 · Cited by: 13
 
+- **Tool-based renewable energy system planning using survey data: A case study in rural Vietnam**  
+  Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Environment Development and Sustainability — 2023  
+  DOI: https://doi.org/10.1007/s10668-023-03120-4 · Cited by: 8
+
 - **The Role of Open-Source Software in the Energy Sector**  
   Jonathan Klimt, Niklas Eiling, Felix Wege, et al. — Energies — 2023  
   DOI: https://doi.org/10.3390/en16165855 · Cited by: 8
@@ -329,10 +333,6 @@ No results found.
 - **Addressing Challenges in Long-Term Strategic Energy Planning in LMICs: Learning Pathways in an Energy Planning Ecosystem**  
   Carla Cannone, Pooya Hoseinpoori, Leigh Martindale, et al. — 2023  
   DOI: https://doi.org/10.33774/coe-2023-q3fzv-v2 · Cited by: 8
-
-- **Tool-based renewable energy system planning using survey data: A case study in rural Vietnam**  
-  Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Environment Development and Sustainability — 2023  
-  DOI: https://doi.org/10.1007/s10668-023-03120-4 · Cited by: 7
 
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
@@ -416,11 +416,11 @@ No results found.
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7908475 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.7534846 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534846 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.7908475 · Cited by: 0
 
 - **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
   Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
@@ -436,7 +436,7 @@ No results found.
 
 - **Achieving universal electricity access in line with SDG7 using GIS-based Model: An application of OnSSET for rural electrification planning in Nigeria**  
   Salisu Isihak — Energy Strategy Reviews — 2022  
-  DOI: https://doi.org/10.1016/j.esr.2022.101021 · Cited by: 20
+  DOI: https://doi.org/10.1016/j.esr.2022.101021 · Cited by: 21
 
 - **A GIS approach to electrification planning in Cameroon**  
   Nadia S. Ouédraogo — Energy Strategy Reviews — 2022  
