@@ -100,11 +100,11 @@ No results found.
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
 
 - **Final_Ebisa Regasa, Ethiopia(case Oromia using ONSSET)**  
   Ebisa Ragasa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -399,12 +399,12 @@ No results found.
   DOI: https://doi.org/10.5194/egusphere-egu23-2006 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
   DOI: https://doi.org/10.5281/zenodo.8365630 · Cited by: 0
+
+- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
+  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.1**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
