@@ -28,11 +28,11 @@ No results found.
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -44,11 +44,11 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -200,11 +200,11 @@ No results found.
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
@@ -264,7 +264,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 56
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 57
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
