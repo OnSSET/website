@@ -190,6 +190,10 @@ No results found.
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 5
 
+- **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
+  Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
+  DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 3
+
 - **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
   DOI: https://doi.org/10.1016/j.nexus.2025.100621 · Cited by: 1
@@ -200,11 +204,11 @@ No results found.
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
@@ -233,10 +237,6 @@ No results found.
 - **Integrerad geospatial och långsiktig elplanering för universell tillgång och avkarbonisering i Burkina Faso**  
   Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
-
-- **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
-  Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 0
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — 2025  
@@ -415,12 +415,12 @@ No results found.
   DOI: https://doi.org/10.5194/egusphere-egu23-2006 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
   DOI: https://doi.org/10.5281/zenodo.8365630 · Cited by: 0
+
+- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
+  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.1**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
