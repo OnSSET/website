@@ -67,20 +67,20 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
 
 - **Kenya Electrification Pathways to 2030**  
-  Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18510530 · Cited by: 0
-
-- **Kenya Electrification Pathways to 2030**  
   Brenda Kiwelu, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18505276 · Cited by: 0
 
-- **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
-  ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
+- **Kenya Electrification Pathways to 2030**  
+  Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18510530 · Cited by: 0
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
+
+- **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
+  ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -237,6 +237,10 @@ No results found.
 - **Integrerad geospatial och långsiktig elplanering för universell tillgång och avkarbonisering i Burkina Faso**  
   Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
+
+- **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
+  Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 0
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — 2025  
@@ -415,12 +419,12 @@ No results found.
   DOI: https://doi.org/10.5194/egusphere-egu23-2006 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
-  DOI: https://doi.org/10.5281/zenodo.8365630 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
+
+- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
+  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
+  DOI: https://doi.org/10.5281/zenodo.8365630 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.1**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
@@ -432,11 +436,11 @@ No results found.
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534846 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.7908475 · Cited by: 0
 
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7908475 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.7534846 · Cited by: 0
 
 - **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
   Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
@@ -493,8 +497,4 @@ No results found.
 - **Transition of the African Power System to Renewable Energies – A Case Study**  
   Robert Gaugl, Sonja Wogrin, Udo Bachhiesl — 2022  
   DOI: https://doi.org/10.46855/energy-proceedings-10023 · Cited by: 3
-
-- **Strategic low-cost energy investment opportunities and challenges towards achieving universal access (SDG7) in each African nation**  
-  Ioannis Pappis — 2022  
-  DOI: https://doi.org/10.21203/rs.3.rs-1225396/v1 · Cited by: 2
 
