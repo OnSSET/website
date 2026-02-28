@@ -238,10 +238,6 @@ No results found.
   Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
 
-- **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
-  Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 0
-
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — 2025  
   DOI: https://doi.org/10.21203/rs.3.rs-5788766/v1 · Cited by: 0
@@ -294,21 +290,21 @@ No results found.
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 8
 
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 6
+
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 5
 
-- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
-  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 5
+- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
+  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
+  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 4
 
 - **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
   DOI: https://doi.org/10.3390/en17123022 · Cited by: 4
-
-- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
-  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 3
 
 - **Long-term Energy System Modelling for a Clean Energy Transition and Improved Energy Security in Botswana’s Energy Sector using OSeMOSYS (Open-Source Energy Modelling System)**  
   Ranea Saad, Fernando Plazas-Niño, Carla Cannone, et al. — 2024  
@@ -497,4 +493,8 @@ No results found.
 - **Transition of the African Power System to Renewable Energies – A Case Study**  
   Robert Gaugl, Sonja Wogrin, Udo Bachhiesl — 2022  
   DOI: https://doi.org/10.46855/energy-proceedings-10023 · Cited by: 3
+
+- **Strategic low-cost energy investment opportunities and challenges towards achieving universal access (SDG7) in each African nation**  
+  Ioannis Pappis — 2022  
+  DOI: https://doi.org/10.21203/rs.3.rs-1225396/v1 · Cited by: 2
 
