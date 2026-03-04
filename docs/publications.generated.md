@@ -238,6 +238,10 @@ No results found.
   Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
 
+- **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
+  Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 0
+
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — 2025  
   DOI: https://doi.org/10.21203/rs.3.rs-5788766/v1 · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Transition of the African Power System to Renewable Energies – A Case Study**  
   Robert Gaugl, Sonja Wogrin, Udo Bachhiesl — 2022  
   DOI: https://doi.org/10.46855/energy-proceedings-10023 · Cited by: 3
-
-- **Strategic low-cost energy investment opportunities and challenges towards achieving universal access (SDG7) in each African nation**  
-  Ioannis Pappis — 2022  
-  DOI: https://doi.org/10.21203/rs.3.rs-1225396/v1 · Cited by: 2
 
