@@ -50,6 +50,14 @@ No results found.
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
+- **Linkage_scripts_OnSSET**  
+  Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18874892 · Cited by: 0
+
+- **Linkage_scripts_OnSSET**  
+  Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18874891 · Cited by: 0
+
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490864 · Cited by: 0
@@ -204,11 +212,11 @@ No results found.
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
@@ -238,10 +246,6 @@ No results found.
   Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
 
-- **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
-  Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 0
-
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — 2025  
   DOI: https://doi.org/10.21203/rs.3.rs-5788766/v1 · Cited by: 0
@@ -258,6 +262,10 @@ No results found.
   Ifeanyi, Godswill Ebuka — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7112351769 · Cited by: 0
 
+- **Data-to-Deal: Component 4. Modelling: Undertaking Deliberative Modelling – A Best Practice Brief.**  
+  Fernando Plazas-Niño, Jairo Quirós‐Tortós, Claire Nicolas, et al. — 2025  
+  DOI: https://doi.org/10.33774/coe-2025-xgfkn · Cited by: 0
+
 - **Corrigendum to ‘Analyzing grid extension suitability: A case study of Ethiopia using OnSSET’ [Energy Strategy Rev. Volume 52 (2024) 101292 /Article Number]**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101657 · Cited by: 0
@@ -268,7 +276,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 57
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 58
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
@@ -489,12 +497,4 @@ No results found.
 - **Economics of Access to Energy**  
   Giacomo Falchetta, Simone Tagliapietra — 2022  
   DOI: https://doi.org/10.1007/978-3-030-86884-0_28 · Cited by: 4
-
-- **Understanding the clean cooking policy challenge in sub-Saharan Africa using a geospatial approach**  
-  Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Research Square (Research Square) — 2022  
-  DOI: https://doi.org/10.21203/rs.3.rs-1650097/v1 · Cited by: 3
-
-- **Transition of the African Power System to Renewable Energies – A Case Study**  
-  Robert Gaugl, Sonja Wogrin, Udo Bachhiesl — 2022  
-  DOI: https://doi.org/10.46855/energy-proceedings-10023 · Cited by: 3
 
