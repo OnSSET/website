@@ -212,11 +212,11 @@ No results found.
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
@@ -380,7 +380,7 @@ No results found.
 
 - **Sustainability Education: Capacity Building Using the MUSE Model**  
   Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16145500 · Cited by: 3
+  DOI: https://doi.org/10.3390/en16145500 · Cited by: 4
 
 - **A Path Across the Rift: Informing African Energy Transitions by Unearthing Critical Questions and Data Needs**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
