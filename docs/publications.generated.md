@@ -212,11 +212,11 @@ No results found.
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
 
 - **Road files for all continental SSA countries**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18311261 · Cited by: 0
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
@@ -229,6 +229,10 @@ No results found.
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
   DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
+
+- **Mapping the Landscape of Open Science Research in Africa: A Bibliometric Analysis**  
+  Samuel Ankamah, Vivian Amponsah, Francis Yeboah, et al. — Ghana Library Journal — 2025  
+  DOI: https://doi.org/10.4314/glj.v30i2.4 · Cited by: 0
 
 - **Long-term spatially explicit electricity demand scenarios for rural electrification: The case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Energy Strategy Reviews — 2025  
@@ -493,8 +497,4 @@ No results found.
 - **Spatial Data Starter Kit for OnSSET Energy Planning in Kitui County, Kenya**  
   Daniel Mutia Mwendwa, Jeffrey Tchouambe, Emily Hu, et al. — Data in Brief — 2022  
   DOI: https://doi.org/10.1016/j.dib.2022.108691 · Cited by: 6
-
-- **Economics of Access to Energy**  
-  Giacomo Falchetta, Simone Tagliapietra — 2022  
-  DOI: https://doi.org/10.1007/978-3-030-86884-0_28 · Cited by: 4
 
