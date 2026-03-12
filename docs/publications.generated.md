@@ -44,19 +44,19 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
-
-- **Linkage_scripts_OnSSET**  
-  Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18874891 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **Linkage_scripts_OnSSET**  
   Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18874892 · Cited by: 0
+
+- **Linkage_scripts_OnSSET**  
+  Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18874891 · Cited by: 0
 
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -334,6 +334,10 @@ No results found.
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 5
 
+- **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
+  Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
+  DOI: https://doi.org/10.1002/sd.3156 · Cited by: 5
+
 - **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
   DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 4
@@ -438,6 +442,10 @@ No results found.
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
 
+- **Guidelines for Demand Data Collection for Rural Access to Electricity Projects**  
+  Nicolò Stevanato, Ivan Sangiorgio, Giulia Baldelli, et al. — 2023  
+  DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
+
 - **Attention to detail – exploring effects on technology selection in geospatial electrification modelling**  
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3043251/v1 · Cited by: 2
@@ -489,12 +497,4 @@ No results found.
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7908475 · Cited by: 0
-
-- **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
-  Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
-  DOI: https://doi.org/10.52202/069564-0176 · Cited by: 0
-
-- **Analyzing Grid Extension Suitability: A Case Study of Ethiopia Using Onsset**  
-  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — SSRN Electronic Journal — 2023  
-  DOI: https://doi.org/10.2139/ssrn.4509313 · Cited by: 0
 
