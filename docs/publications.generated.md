@@ -52,11 +52,11 @@ No results found.
 
 - **Linkage_scripts_OnSSET**  
   Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18874892 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18874891 · Cited by: 0
 
 - **Linkage_scripts_OnSSET**  
   Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18874891 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18874892 · Cited by: 0
 
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -458,13 +458,13 @@ No results found.
   Mei Wu-Gehbauer, Christoph Rosenkranz, Phil Hennel — Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences — 2023  
   DOI: https://doi.org/10.24251/hicss.2023.097 · Cited by: 1
 
+- **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
+  GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
+  DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 1
+
 - **High-resolution Global Pathways to Achieve 100% Electricity Access in 2030**  
   Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3388210/v1 · Cited by: 1
-
-- **Comparison Analysis of Nearest Road Calculations on Dijkstra Algorithm and A*(A-Star) Algorithm for Mapping BTS Tower Area**  
-  Agung Rahmad Hidayat, Rahmat Gernowo, Aris Sugiharto — Journal Of Social Research — 2023  
-  DOI: https://doi.org/10.55324/josr.v2i10.1391 · Cited by: 1
 
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
