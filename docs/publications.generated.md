@@ -34,10 +34,6 @@ No results found.
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
 
-- **Strategic Roadmap for Universal Electricity Access in Myanmar**  
-  Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503501 · Cited by: 0
-
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 0
@@ -372,7 +368,7 @@ No results found.
 
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
-  DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 65
+  DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 66
 
 - **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
   Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
@@ -497,4 +493,8 @@ No results found.
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7908181 · Cited by: 0
+
+- **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
+  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7534846 · Cited by: 0
 
