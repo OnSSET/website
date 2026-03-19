@@ -40,11 +40,11 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **Linkage_scripts_OnSSET**  
   Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -186,6 +186,10 @@ No results found.
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
   DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 20
 
+- **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
+  Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
+  DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 5
+
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 5
@@ -193,10 +197,6 @@ No results found.
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 5
-
-- **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
-  Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
-  DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 4
 
 - **Geospatial Planning for Least-Cost Electrification in Developing Countries**  
   Nicolò Ceccato, Corrado Maria Caminiti, Aleksandar Dimovski, et al. — Energies — 2025  
@@ -308,7 +308,7 @@ No results found.
 
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
-  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 13
+  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 14
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
@@ -322,13 +322,13 @@ No results found.
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 8
 
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 8
+
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 8
-
-- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
-  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 7
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
