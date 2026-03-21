@@ -24,11 +24,11 @@ No results found.
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503502 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503502 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -69,10 +69,6 @@ No results found.
 - **Kenya Electrification Pathways to 2030**  
   Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
-
-- **Kenya Electrification Pathways to 2030**  
-  Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18510530 · Cited by: 0
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -198,6 +194,10 @@ No results found.
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 5
 
+- **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
+  William Berglund, Andreas Brännström — Lecture notes in computer science — 2025  
+  DOI: https://doi.org/10.1007/978-3-032-11108-1_1 · Cited by: 2
+
 - **Geospatial Planning for Least-Cost Electrification in Developing Countries**  
   Nicolò Ceccato, Corrado Maria Caminiti, Aleksandar Dimovski, et al. — Energies — 2025  
   DOI: https://doi.org/10.3390/en18071784 · Cited by: 2
@@ -296,7 +296,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 58
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 59
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
@@ -378,13 +378,13 @@ No results found.
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
   DOI: https://doi.org/10.1002/sd.2521 · Cited by: 48
 
+- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
+  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 25
+
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
   DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 25
-
-- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
-  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 24
 
 - **Balancing the scales: Does public debt and energy poverty mitigate or exacerbate ecological distortions in Nigeria?**  
   Uju Regina Ezenekwe, Kingsley Ikechukwu Okere, Stephen Kelechi Dimnwobi, et al. — International Social Science Journal — 2023  
@@ -442,6 +442,10 @@ No results found.
   Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
   DOI: https://doi.org/10.17159/sajs.2023/13988 · Cited by: 2
 
+- **Mapping the County Energy Planning Ecosystem in Kenya**  
+  Alycia Leonard, Daniel Mutia Mwendwa, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7818849 · Cited by: 2
+
 - **How reliability and carbon prices impact pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
@@ -478,6 +482,10 @@ No results found.
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
 
+- **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
+  Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
+
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
@@ -489,12 +497,4 @@ No results found.
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.1**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
   DOI: https://doi.org/10.5281/zenodo.8288954 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7908181 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: pre-release version**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534846 · Cited by: 0
 
