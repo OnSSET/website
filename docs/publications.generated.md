@@ -46,6 +46,10 @@ No results found.
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
+- **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
+  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
+  DOI: https://doi.org/10.1088/2634-4505/ae5556 · Cited by: 0
+
 - **Linkage_scripts_OnSSET**  
   Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18874892 · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
   DOI: https://doi.org/10.5281/zenodo.8365630 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.1**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — 2023  
-  DOI: https://doi.org/10.5281/zenodo.8288954 · Cited by: 0
 
