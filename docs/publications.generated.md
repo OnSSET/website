@@ -322,13 +322,13 @@ No results found.
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
   DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 9
 
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 9
+
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 8
-
-- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
-  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 8
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
