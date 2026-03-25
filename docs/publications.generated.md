@@ -382,13 +382,13 @@ No results found.
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
   DOI: https://doi.org/10.1002/sd.2521 · Cited by: 48
 
+- **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
+  Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
+  DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 26
+
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
   DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 25
-
-- **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
-  Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
-  DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 25
 
 - **Balancing the scales: Does public debt and energy poverty mitigate or exacerbate ecological distortions in Nigeria?**  
   Uju Regina Ezenekwe, Kingsley Ikechukwu Okere, Stephen Kelechi Dimnwobi, et al. — International Social Science Journal — 2023  
