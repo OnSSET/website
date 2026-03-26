@@ -74,6 +74,10 @@ No results found.
   Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
 
+- **Kenya Electrification Pathways to 2030**  
+  Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18510530 · Cited by: 0
+
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
@@ -186,6 +190,10 @@ No results found.
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
   DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 20
 
+- **A geospatial perspective on electrification strategy in urbanizing Africa**  
+  Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
+  DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 6
+
 - **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
   Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
   DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 5
@@ -193,10 +201,6 @@ No results found.
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 5
-
-- **A geospatial perspective on electrification strategy in urbanizing Africa**  
-  Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
-  DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 5
 
 - **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
   William Berglund, Andreas Brännström — Lecture notes in computer science — 2025  
@@ -263,7 +267,7 @@ No results found.
   DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 0
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
-  Adugnaw Lake Temesgen, Getachew Bekele — 2025  
+  Adugnaw Lake Temesgen, Getachew Bekele — Research Square — 2025  
   DOI: https://doi.org/10.21203/rs.3.rs-5788766/v1 · Cited by: 0
 
 - **Geospatial planning for the rural electrification of the Amazon - Suriname case study**  
@@ -318,6 +322,10 @@ No results found.
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
   DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 12
 
+- **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
+  Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
+  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 9
+
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
   DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 9
@@ -326,13 +334,13 @@ No results found.
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
   DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 9
 
-- **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
-  Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 8
-
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 8
+
+- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
+  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
+  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 5
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
@@ -341,10 +349,6 @@ No results found.
 - **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
   Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
   DOI: https://doi.org/10.1002/sd.3156 · Cited by: 5
-
-- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
-  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 4
 
 - **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
@@ -451,7 +455,7 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.7818849 · Cited by: 2
 
 - **How reliability and carbon prices impact pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — 2023  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
 
 - **Guidelines for Demand Data Collection for Rural Access to Electricity Projects**  
@@ -459,7 +463,7 @@ No results found.
   DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
 
 - **Attention to detail – exploring effects on technology selection in geospatial electrification modelling**  
-  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — 2023  
+  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3043251/v1 · Cited by: 2
 
 - **Using PyPSA-Earth to Address Energy Systems Modelling Gaps in Developing Countries. a Case Study for Bolivia**  
@@ -467,7 +471,7 @@ No results found.
   DOI: https://doi.org/10.52202/069564-0181 · Cited by: 1
 
 - **Sustainable Energy System Planning in Developing Countries: Facilitating Load Profile Generation in Energy System Simulations**  
-  Mei Wu-Gehbauer, Christoph Rosenkranz, Phil Hennel — Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences — 2023  
+  Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences — 2023  
   DOI: https://doi.org/10.24251/hicss.2023.097 · Cited by: 1
 
 - **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
@@ -475,7 +479,7 @@ No results found.
   DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 1
 
 - **High-resolution Global Pathways to Achieve 100% Electricity Access in 2030**  
-  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — 2023  
+  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3388210/v1 · Cited by: 1
 
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
@@ -493,8 +497,4 @@ No results found.
 - **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
   Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.8365630 · Cited by: 0
 
