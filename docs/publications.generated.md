@@ -74,10 +74,6 @@ No results found.
   Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
 
-- **Kenya Electrification Pathways to 2030**  
-  Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18510530 · Cited by: 0
-
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
@@ -150,6 +146,10 @@ No results found.
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
 
+- **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
+  Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
+  DOI: https://doi.org/10.2139/ssrn.6470569 · Cited by: 0
+
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504203 · Cited by: 0
@@ -165,6 +165,10 @@ No results found.
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18502901 · Cited by: 0
+
+- **Corrigendum to “Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)” [Energy Nexus 21 (2026) 100621]**  
+  Adama SARR, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2026  
+  DOI: https://doi.org/10.1016/j.nexus.2026.100689 · Cited by: 0
 
 - **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
@@ -420,7 +424,7 @@ No results found.
 
 - **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
   Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
-  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 7
+  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 8
 
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
@@ -432,7 +436,7 @@ No results found.
 
 - **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
   Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 5
+  DOI: https://doi.org/10.3390/en16186489 · Cited by: 6
 
 - **Sustainability Education: Capacity Building Using the MUSE Model**  
   Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
@@ -493,8 +497,4 @@ No results found.
 - **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
   Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
 
