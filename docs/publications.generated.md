@@ -136,11 +136,11 @@ No results found.
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -404,7 +404,7 @@ No results found.
 
 - **Integrating Solar Photovoltaic Power Source and Biogas Energy-Based System for Increasing Access to Electricity in Rural Areas of Tanzania**  
   Isaka J. Mwakitalima, M. Rizwan, Narendra Kumar — International Journal of Photoenergy — 2023  
-  DOI: https://doi.org/10.1155/2023/7950699 · Cited by: 18
+  DOI: https://doi.org/10.1155/2023/7950699 · Cited by: 19
 
 - **Enabling factors for the development of mini-grid solutions in Mozambique: A PESTLE-based analysis**  
   Castro Soares, Diana Shendrikova, Giacomo Crevani, et al. — Energy Strategy Reviews — 2023  
