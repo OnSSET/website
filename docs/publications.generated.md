@@ -26,10 +26,6 @@ No results found.
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503502 · Cited by: 0
 
-- **Strategic Roadmap for Universal Electricity Access in Myanmar**  
-  Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
-
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 0
@@ -69,6 +65,14 @@ No results found.
 - **Kenya Electrification Pathways to 2030**  
   Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
+
+- **Geospatial Tools for Energy Access**  
+  Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
+
+- **Geospatial Tools for Energy Access**  
+  Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.19231873 · Cited by: 0
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -186,9 +190,21 @@ No results found.
   Wubalem Mitike — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18491004 · Cited by: 0
 
+- **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
+  Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+
+- **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
+  Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+
 - **Electricity demand forecasting methodologies and applications: a review**  
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
-  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 20
+  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 22
+
+- **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
+  Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
+  DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
 
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
@@ -197,10 +213,6 @@ No results found.
 - **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
   Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
   DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 5
-
-- **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
-  Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
-  DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 5
 
 - **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
   William Berglund, Andreas Brännström — Lecture notes in computer science — 2025  
@@ -217,6 +229,10 @@ No results found.
 - **Optimizing Spatial Input Data for Techno-Economic Modeling of Least-Cost Electrification Pathways in Zambia**  
   Katundu Imasiku, Gregory Ireland, Alison Hughes — Journal of Sustainable Development of Energy Water and Environment Systems — 2025  
   DOI: https://doi.org/10.13044/j.sdewes.d13.0549 · Cited by: 1
+
+- **Long-term spatially explicit electricity demand scenarios for rural electrification: The case of Ethiopia**  
+  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 1
 
 - **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
@@ -245,10 +261,6 @@ No results found.
 - **Mapping the Landscape of Open Science Research in Africa: A Bibliometric Analysis**  
   Samuel Ankamah, Vivian Amponsah, Francis Yeboah, et al. — Ghana Library Journal — 2025  
   DOI: https://doi.org/10.4314/glj.v30i2.4 · Cited by: 0
-
-- **Long-term spatially explicit electricity demand scenarios for rural electrification: The case of Ethiopia**  
-  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 0
 
 - **Left in the Dark: Spatial Analysis of Energy Access For Social Services in Nigeria**  
   Glory Adebayo, Linda Fynn Prah, Sunday Philip Akingbemisola — Path of Science — 2025  
@@ -304,7 +316,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 60
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 61
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
@@ -324,7 +336,7 @@ No results found.
 
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 9
+  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 10
 
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
@@ -336,7 +348,7 @@ No results found.
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 8
+  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 9
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
@@ -354,13 +366,13 @@ No results found.
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
   DOI: https://doi.org/10.3390/en17123022 · Cited by: 4
 
+- **A High-Resolution Analysis of Electricity Demand for Informed Electrification Planning**  
+  Adugnaw Lake Temesgen, Basilio Zeloso S. Tamele, Erik O. Ahlgren — 2024  
+  DOI: https://doi.org/10.1109/powerafrica61624.2024.10759429 · Cited by: 3
+
 - **Long-term Energy System Modelling for a Clean Energy Transition and Improved Energy Security in Botswana’s Energy Sector using OSeMOSYS (Open-Source Energy Modelling System)**  
   Ranea Saad, Fernando Plazas-Niño, Carla Cannone, et al. — 2024  
   DOI: https://doi.org/10.33774/coe-2024-0cf1p · Cited by: 2
-
-- **A High-Resolution Analysis of Electricity Demand for Informed Electrification Planning**  
-  Adugnaw Lake Temesgen, Basilio Zeloso S. Tamele, Erik O. Ahlgren — 2024  
-  DOI: https://doi.org/10.1109/powerafrica61624.2024.10759429 · Cited by: 2
 
 - **ОПТИМАЛЬНОЕ ПРОЕКТИРОВАНИЕ СИСТЕМ ЭЛЕКТРОСНАБЖЕНИЯ НА ЭВМ С УЧЕТОМ КРИТЕРИЕВ НАДЕЖНОСТИ И ЭКОНОМИЧНОСТИ**  
   С.С. Трунов, А.В. Крупнов — Bulletin of the Tver State Technical University Series «Building Electrical engineering and chemical technology» — 2024  
@@ -414,13 +426,17 @@ No results found.
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — 2023  
   DOI: https://doi.org/10.5194/egusphere-2023-258 · Cited by: 13
 
+- **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
+  Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
+  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 9
+
 - **Tool-based renewable energy system planning using survey data: A case study in rural Vietnam**  
   Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Environment Development and Sustainability — 2023  
   DOI: https://doi.org/10.1007/s10668-023-03120-4 · Cited by: 8
 
-- **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
-  Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
-  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 8
+- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
+  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
+  DOI: https://doi.org/10.3390/en16186489 · Cited by: 7
 
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
@@ -429,10 +445,6 @@ No results found.
 - **Incorporating Elicited Preferences for Equality into Electricity System Planning Modeling**  
   Charles Van-Hein Sackey, Destenie Nock, Christine Cao, et al. — Sustainability — 2023  
   DOI: https://doi.org/10.3390/su152316351 · Cited by: 6
-
-- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
-  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 6
 
 - **Sustainability Education: Capacity Building Using the MUSE Model**  
   Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
@@ -485,16 +497,4 @@ No results found.
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136fr · Cited by: 0
-
-- **Un camino a través del Rift Informe sobre las transiciónes energéticas africanas identificando problemas críticos y necesidades de datos**  
-  Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
-  DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
-
-- **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
-  Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
-
-- **Replication data for the LEAP-RE RE4AFAGRI Platform: v0.2**  
-  Giacomo Falchetta, Muhammad Awais, Edward Byers, et al. — IIASA PURE (International Institute of Applied Systems Analysis) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7534845 · Cited by: 0
 
