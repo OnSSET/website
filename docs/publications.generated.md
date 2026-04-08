@@ -318,13 +318,13 @@ No results found.
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
   DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 15
 
+- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
+  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
+  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 15
+
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
   DOI: https://doi.org/10.3390/en17235984 · Cited by: 14
-
-- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
-  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
-  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 14
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
@@ -394,17 +394,17 @@ No results found.
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
   DOI: https://doi.org/10.1002/sd.2521 · Cited by: 49
 
+- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
+  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 26
+
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
   DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 26
 
-- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
-  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 25
-
 - **Balancing the scales: Does public debt and energy poverty mitigate or exacerbate ecological distortions in Nigeria?**  
   Uju Regina Ezenekwe, Kingsley Ikechukwu Okere, Stephen Kelechi Dimnwobi, et al. — International Social Science Journal — 2023  
-  DOI: https://doi.org/10.1111/issj.12465 · Cited by: 24
+  DOI: https://doi.org/10.1111/issj.12465 · Cited by: 25
 
 - **Addressing Challenges in Long-Term Strategic Energy Planning in LMICs: Learning Pathways in an Energy Planning Ecosystem**  
   Carla Cannone, Pooya Hoseinpoori, Leigh Martindale, et al. — Energies — 2023  
