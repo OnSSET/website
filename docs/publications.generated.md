@@ -58,10 +58,6 @@ No results found.
   Brenda Kiwelu, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18505275 · Cited by: 0
 
-- **Kenya Electrification Pathways to 2030**  
-  Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
-
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
@@ -312,11 +308,11 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 61
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 62
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
-  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 15
+  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 16
 
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
@@ -392,7 +388,7 @@ No results found.
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 49
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 50
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
@@ -497,4 +493,8 @@ No results found.
 - **Un camino a través del Rift Informe sobre las transiciónes energéticas africanas identificando problemas críticos y necesidades de datos**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
+
+- **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
+  Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
 
