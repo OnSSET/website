@@ -312,7 +312,7 @@ No results found.
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
-  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 16
+  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 17
 
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
