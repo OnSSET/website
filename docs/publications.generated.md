@@ -22,6 +22,10 @@ No results found.
   Alexandra Falcón-Mendoza, José Herrera-Perez, Jorge Hernández-Ambato, et al. — Communications in computer and information science — 2026  
   DOI: https://doi.org/10.1007/978-3-032-16851-1_23 · Cited by: 0
 
+- **Strategic Roadmap for Universal Electricity Access in Myanmar**  
+  Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503502 · Cited by: 0
+
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 0
@@ -481,10 +485,6 @@ No results found.
 - **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
   GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
   DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 1
-
-- **High-resolution Global Pathways to Achieve 100% Electricity Access in 2030**  
-  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Research Square — 2023  
-  DOI: https://doi.org/10.21203/rs.3.rs-3388210/v1 · Cited by: 1
 
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
