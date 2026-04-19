@@ -314,13 +314,13 @@ No results found.
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
   DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 17
 
+- **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
+  Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
+  DOI: https://doi.org/10.3390/en17235984 · Cited by: 15
+
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
   DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 15
-
-- **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
-  Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17235984 · Cited by: 14
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
@@ -388,7 +388,7 @@ No results found.
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 51
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 52
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
@@ -486,6 +486,10 @@ No results found.
   Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3388210/v1 · Cited by: 1
 
+- **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
+  Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
+  DOI: https://doi.org/10.52202/069564-0176 · Cited by: 1
+
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136fr · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Un camino a través del Rift Informe sobre las transiciónes energéticas africanas identificando problemas críticos y necesidades de datos**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
-
-- **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
-  Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
 
