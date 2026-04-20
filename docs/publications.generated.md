@@ -278,6 +278,10 @@ No results found.
   Rudi van, Amrita Raghoebarsing — Revista Brasileira de Energia — 2025  
   DOI: https://doi.org/10.47168/rbe.v30i3.946 · Cited by: 0
 
+- **Geospatial estimation and projection of electricity demand in Burkina Faso for efficient and sustainable rural electrification**  
+  Boubou Bagré, Giacomo Falchetta, Jacques Nébié, et al. — Environmental Research Communications — 2025  
+  DOI: https://doi.org/10.1088/2515-7620/ae256f · Cited by: 0
+
 - **Expanding quantitative energy transition modelling research processes within LMICs to integrate qualitative considerations and methodologies.**  
   Neve Fields, Leigh Martindale, Mark Bergman, et al. — 2025  
   DOI: https://doi.org/10.33774/coe-2025-714lh · Cited by: 0
@@ -481,10 +485,6 @@ No results found.
 - **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
   GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
   DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 1
-
-- **High-resolution Global Pathways to Achieve 100% Electricity Access in 2030**  
-  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Research Square — 2023  
-  DOI: https://doi.org/10.21203/rs.3.rs-3388210/v1 · Cited by: 1
 
 - **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
   Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
