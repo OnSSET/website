@@ -54,10 +54,6 @@ No results found.
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490863 · Cited by: 0
 
-- **Kenya Electrification Pathways to 2030**  
-  Brenda Kiwelu, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18505275 · Cited by: 0
-
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
@@ -470,6 +466,10 @@ No results found.
   Nicolò Stevanato, Ivan Sangiorgio, Giulia Baldelli, et al. — 2023  
   DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
 
+- **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
+  Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
+  DOI: https://doi.org/10.52202/069564-0176 · Cited by: 2
+
 - **Attention to detail – exploring effects on technology selection in geospatial electrification modelling**  
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3043251/v1 · Cited by: 2
@@ -486,10 +486,6 @@ No results found.
   GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
   DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 1
 
-- **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
-  Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
-  DOI: https://doi.org/10.52202/069564-0176 · Cited by: 1
-
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136fr · Cited by: 0
@@ -497,4 +493,8 @@ No results found.
 - **Un camino a través del Rift Informe sobre las transiciónes energéticas africanas identificando problemas críticos y necesidades de datos**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
+
+- **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
+  Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
+  DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
 
