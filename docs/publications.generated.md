@@ -314,13 +314,13 @@ No results found.
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
   DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 17
 
+- **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
+  Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
+  DOI: https://doi.org/10.3390/en17235984 · Cited by: 16
+
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
   DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 16
-
-- **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
-  Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17235984 · Cited by: 15
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
