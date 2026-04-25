@@ -54,6 +54,10 @@ No results found.
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490863 · Cited by: 0
 
+- **Kenya Electrification Pathways to 2030**  
+  Brenda Kiwelu, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18505275 · Cited by: 0
+
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
@@ -163,12 +167,12 @@ No results found.
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
-  Abadi Tesfay Yohanes — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
-
-- **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
+
+- **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
+  Abadi Tesfay Yohanes — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
 
 - **Achieving Access to electricity for Somali Region, Ethiopia by 2040 using ONSSET.**  
   Wubalem Mitike — Open MIND — 2026  
@@ -279,7 +283,7 @@ No results found.
   DOI: https://doi.org/10.1088/2515-7620/ae256f · Cited by: 0
 
 - **Expanding quantitative energy transition modelling research processes within LMICs to integrate qualitative considerations and methodologies.**  
-  Neve Fields, Leigh Martindale, Mark Bergman, et al. — 2025  
+  Neve Fields, Leigh Martindale, Marissa Bergman, et al. — 2025  
   DOI: https://doi.org/10.33774/coe-2025-714lh · Cited by: 0
 
 - **Energy Modelling Research Landscape in Kenya: A Systematic Review.**  
@@ -493,8 +497,4 @@ No results found.
 - **Un camino a través del Rift Informe sobre las transiciónes energéticas africanas identificando problemas críticos y necesidades de datos**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
-
-- **Review and Comparison of Nakuru, Kitui and Narok County Energy Plans**  
-  Daniel Mutia Mwendwa, Alycia Leonard, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
-  DOI: https://doi.org/10.5281/zenodo.7818865 · Cited by: 0
 
