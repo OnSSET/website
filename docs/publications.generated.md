@@ -152,11 +152,11 @@ No results found.
 
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502901 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18502902 · Cited by: 0
 
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502902 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18502901 · Cited by: 0
 
 - **Corrigendum to “Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)” [Energy Nexus 21 (2026) 100621]**  
   Adama SARR, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2026  
