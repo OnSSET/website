@@ -192,7 +192,7 @@ No results found.
 
 - **Electricity demand forecasting methodologies and applications: a review**  
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
-  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 24
+  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 25
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
@@ -233,6 +233,10 @@ No results found.
 - **Integrated geospatial modelling for the achievement of universal energy access in Kenya**  
   Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
   DOI: https://doi.org/10.1038/s44406-025-00017-1 · Cited by: 1
+
+- **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
+  Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 1
 
 - **Energy resource development in the DRC: A scenario planning for hydroelectric potential development by 2050 based on OSeMOSYS**  
   Benjamin Hodia Kibungu, Bernard Nkanka Ndaye, Cush Luwesi Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
@@ -312,7 +316,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 64
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 65
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
@@ -388,7 +392,7 @@ No results found.
 
 - **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
   Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 60
+  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 61
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
@@ -444,7 +448,7 @@ No results found.
 
 - **Sustainability Education: Capacity Building Using the MUSE Model**  
   Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16145500 · Cited by: 4
+  DOI: https://doi.org/10.3390/en16145500 · Cited by: 5
 
 - **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
   Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
@@ -493,8 +497,4 @@ No results found.
 - **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136fr · Cited by: 0
-
-- **Un camino a través del Rift Informe sobre las transiciónes energéticas africanas identificando problemas críticos y necesidades de datos**  
-  Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
-  DOI: https://doi.org/10.46830/wriib.22.00136es · Cited by: 0
 
