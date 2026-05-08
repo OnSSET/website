@@ -28,11 +28,11 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
@@ -196,15 +196,15 @@ No results found.
 
 - **Electricity demand forecasting methodologies and applications: a review**  
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
-  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 25
+  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 26
+
+- **A geospatial perspective on electrification strategy in urbanizing Africa**  
+  Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
+  DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 7
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
-
-- **A geospatial perspective on electrification strategy in urbanizing Africa**  
-  Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
-  DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 6
 
 - **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
   Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
@@ -438,13 +438,13 @@ No results found.
   Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Environment Development and Sustainability — 2023  
   DOI: https://doi.org/10.1007/s10668-023-03120-4 · Cited by: 8
 
+- **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
+  Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
+  DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 7
+
 - **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
   Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
   DOI: https://doi.org/10.3390/en16186489 · Cited by: 7
-
-- **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
-  Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
-  DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 6
 
 - **Incorporating Elicited Preferences for Equality into Electricity System Planning Modeling**  
   Charles Van-Hein Sackey, Destenie Nock, Christine Cao, et al. — Sustainability — 2023  
