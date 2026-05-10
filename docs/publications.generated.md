@@ -202,13 +202,13 @@ No results found.
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 7
 
+- **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
+  Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
+  DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 6
+
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
-
-- **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
-  Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
-  DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 5
 
 - **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
   William Berglund, Andreas Brännström — Lecture notes in computer science — 2025  
@@ -400,7 +400,7 @@ No results found.
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 52
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 53
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
