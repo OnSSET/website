@@ -456,7 +456,7 @@ No results found.
 
 - **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
   Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
-  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 4
+  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 5
 
 - **A Path Across the Rift: Informing African Energy Transitions by Unearthing Critical Questions and Data Needs**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
