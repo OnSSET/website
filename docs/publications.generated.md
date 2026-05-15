@@ -22,17 +22,25 @@ No results found.
   Alexandra Falcón-Mendoza, José Herrera-Perez, Jorge Hernández-Ambato, et al. — Communications in computer and information science — 2026  
   DOI: https://doi.org/10.1007/978-3-032-16851-1_23 · Cited by: 0
 
+- **SPLICE Dataset: Integrated Electrification and Power System Planning with OnSSET and PyPSA-Earth - UGANDA**  
+  Corrado Maria Caminiti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20157075 · Cited by: 0
+
+- **SPLICE Dataset: Integrated Electrification and Power System Planning with OnSSET and PyPSA-Earth - UGANDA**  
+  Corrado Maria Caminiti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20157076 · Cited by: 0
+
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
@@ -338,13 +346,13 @@ No results found.
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 10
 
+- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
+  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
+  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
+
 - **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
   DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 10
-
-- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
-  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 9
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
@@ -392,11 +400,11 @@ No results found.
 
 - **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
   Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 61
+  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 62
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 53
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 54
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
@@ -420,7 +428,7 @@ No results found.
 
 - **Enabling factors for the development of mini-grid solutions in Mozambique: A PESTLE-based analysis**  
   Castro Soares, Diana Shendrikova, Giacomo Crevani, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2022.101040 · Cited by: 14
+  DOI: https://doi.org/10.1016/j.esr.2022.101040 · Cited by: 15
 
 - **MESSAGEix-GLOBIOM Nexus Module: Integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — 2023  
@@ -462,6 +470,10 @@ No results found.
   Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
   DOI: https://doi.org/10.17159/sajs.2023/13988 · Cited by: 2
 
+- **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
+  GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
+  DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 2
+
 - **Mapping the County Energy Planning Ecosystem in Kenya**  
   Alycia Leonard, Daniel Mutia Mwendwa, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7818849 · Cited by: 2
@@ -485,16 +497,4 @@ No results found.
 - **Using PyPSA-Earth to Address Energy Systems Modelling Gaps in Developing Countries. a Case Study for Bolivia**  
   Carlos Fernandez, Sergio Balderrama, Sylvain Quoilin — 2023  
   DOI: https://doi.org/10.52202/069564-0181 · Cited by: 1
-
-- **Sustainable Energy System Planning in Developing Countries: Facilitating Load Profile Generation in Energy System Simulations**  
-  Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences — 2023  
-  DOI: https://doi.org/10.24251/hicss.2023.097 · Cited by: 1
-
-- **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
-  GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
-  DOI: https://doi.org/10.48550/arxiv.2310.11615 · Cited by: 1
-
-- **Un chemin à travers le Rift Éclairer les transitions énergétiques en Afrique en identifiant des questions critiques et besoins en données**  
-  Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
-  DOI: https://doi.org/10.46830/wriib.22.00136fr · Cited by: 0
 
