@@ -18,6 +18,10 @@ No results found.
 
 ### Mentions (auto)
 
+- **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
+  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
+  DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 1
+
 - **Techno-Economic Analysis of Least-Cost Technology Solutions for Expanding Electricity Access in Ecuador**  
   Alexandra Falcón-Mendoza, José Herrera-Perez, Jorge Hernández-Ambato, et al. — Communications in computer and information science — 2026  
   DOI: https://doi.org/10.1007/978-3-032-16851-1_23 · Cited by: 0
@@ -169,10 +173,6 @@ No results found.
 - **Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET**  
   Adama SARR — SSRN Electronic Journal — 2026  
   DOI: https://doi.org/10.2139/ssrn.6666023 · Cited by: 0
-
-- **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
-  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
-  DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Open MIND — 2026  
@@ -408,7 +408,7 @@ No results found.
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 26
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 27
 
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
