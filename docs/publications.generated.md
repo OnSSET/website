@@ -40,11 +40,11 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
@@ -344,15 +344,15 @@ No results found.
 
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 10
+  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 11
+
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 11
 
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
   DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
-
-- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
-  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 10
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
