@@ -38,6 +38,10 @@ No results found.
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 0
 
+- **Responsible Artificial Intelligence for Earth observation: human rights and the EU AI act**  
+  Caroline Gevaert, Sanja Šćepanović, Nadia Bernaz, et al. — AI and Ethics — 2026  
+  DOI: https://doi.org/10.1007/s43681-026-01149-5 · Cited by: 0
+
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
@@ -250,6 +254,10 @@ No results found.
   Benjamin Hodia Kibungu, Bernard Nkanka Ndaye, Cush Luwesi Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
   DOI: https://doi.org/10.61435/ijred.2025.61121 · Cited by: 1
 
+- **Application of GIS in Sub-National Energy Planning in Kenya – Integrating Primary Data Into a Least-Cost Electrification Model Using OnSSET (Case Study of Narok County, Kenya)**  
+  Douglas Ronoh, Mentis Mentis, Sarah Odera, et al. — 2025  
+  DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 1
+
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 0
@@ -298,10 +306,6 @@ No results found.
   Neve Fields, Leigh Martindale, Marissa Bergman, et al. — 2025  
   DOI: https://doi.org/10.33774/coe-2025-714lh · Cited by: 0
 
-- **Energy Modelling Research Landscape in Kenya: A Systematic Review.**  
-  Neve Fields, Boniface Kinyanjui, Edward Brown, et al. — 2025  
-  DOI: https://doi.org/10.33774/coe-2025-7lmg3-v2 · Cited by: 0
-
 - **Developing a Climate-Aligned Long-Term Energy Systems Model for Madagascar : Integrating OSeMOSYS and OnSSET for Low-Carbon Electrification Planning**  
   Ifeanyi, Godswill Ebuka — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7112351769 · Cited by: 0
@@ -313,10 +317,6 @@ No results found.
 - **Corrigendum to ‘Analyzing grid extension suitability: A case study of Ethiopia using OnSSET’ [Energy Strategy Rev. Volume 52 (2024) 101292 /Article Number]**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101657 · Cited by: 0
-
-- **Application of GIS in Sub-National Energy Planning in Kenya – Integrating Primary Data Into a Least-Cost Electrification Model Using OnSSET (Case Study of Narok County, Kenya)**  
-  Douglas Ronoh, Mentis Mentis, Sarah Odera, et al. — 2025  
-  DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 0
 
 - **Untitled**  
   Revista Brasileira de Energia — 2025  
@@ -412,7 +412,7 @@ No results found.
 
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
-  DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 26
+  DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 27
 
 - **Balancing the scales: Does public debt and energy poverty mitigate or exacerbate ecological distortions in Nigeria?**  
   Uju Regina Ezenekwe, Kingsley Ikechukwu Okere, Stephen Kelechi Dimnwobi, et al. — International Social Science Journal — 2023  
