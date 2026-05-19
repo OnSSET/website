@@ -408,7 +408,7 @@ No results found.
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 27
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 28
 
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
