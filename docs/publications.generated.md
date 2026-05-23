@@ -22,10 +22,6 @@ No results found.
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 1
 
-- **Techno-Economic Analysis of Least-Cost Technology Solutions for Expanding Electricity Access in Ecuador**  
-  Alexandra Falcón-Mendoza, José Herrera-Perez, Jorge Hernández-Ambato, et al. — Communications in computer and information science — 2026  
-  DOI: https://doi.org/10.1007/978-3-032-16851-1_23 · Cited by: 0
-
 - **SPLICE Dataset: Integrated Electrification and Power System Planning with OnSSET and PyPSA-Earth - UGANDA**  
   Corrado Maria Caminiti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20157075 · Cited by: 0
@@ -41,6 +37,22 @@ No results found.
 - **Responsible Artificial Intelligence for Earth observation: human rights and the EU AI act**  
   Caroline Gevaert, Sanja Šćepanović, Nadia Bernaz, et al. — AI and Ethics — 2026  
   DOI: https://doi.org/10.1007/s43681-026-01149-5 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20332280 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20328728 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20328727 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -69,6 +81,10 @@ No results found.
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490863 · Cited by: 0
+
+- **Least-cost technology analisis for electricity Access in Ecuador**  
+  Dennis Copara — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20334058 · Cited by: 0
 
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -481,20 +497,4 @@ No results found.
 - **How reliability and carbon prices impact pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
-
-- **Guidelines for Demand Data Collection for Rural Access to Electricity Projects**  
-  Nicolò Stevanato, Ivan Sangiorgio, Giulia Baldelli, et al. — 2023  
-  DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
-
-- **Electricity Demand Forecasting for Rural Communities in Developing Countries: Calibrating a Stochastic Model for the Bolivian Case**  
-  Claudia Sanchez-Solis, Pietro Di Betta, Nicolò Stevanato, et al. — 2023  
-  DOI: https://doi.org/10.52202/069564-0176 · Cited by: 2
-
-- **Attention to detail – exploring effects on technology selection in geospatial electrification modelling**  
-  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Research Square — 2023  
-  DOI: https://doi.org/10.21203/rs.3.rs-3043251/v1 · Cited by: 2
-
-- **Using PyPSA-Earth to Address Energy Systems Modelling Gaps in Developing Countries. a Case Study for Bolivia**  
-  Carlos Fernandez, Sergio Balderrama, Sylvain Quoilin — 2023  
-  DOI: https://doi.org/10.52202/069564-0181 · Cited by: 1
 
