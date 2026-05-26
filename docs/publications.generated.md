@@ -82,6 +82,10 @@ No results found.
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490863 · Cited by: 0
 
+- **Least-cost technology analisis for electricity Access in Ecuador**  
+  Dennis Copara — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20334058 · Cited by: 0
+
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
@@ -336,7 +340,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 66
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 67
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
@@ -493,8 +497,4 @@ No results found.
 - **How reliability and carbon prices impact pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
-
-- **Guidelines for Demand Data Collection for Rural Access to Electricity Projects**  
-  Nicolò Stevanato, Ivan Sangiorgio, Giulia Baldelli, et al. — 2023  
-  DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
 
