@@ -344,7 +344,7 @@ No results found.
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17235984 · Cited by: 17
+  DOI: https://doi.org/10.3390/en17235984 · Cited by: 18
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
