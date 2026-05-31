@@ -340,7 +340,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 68
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 69
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
@@ -478,13 +478,13 @@ No results found.
   Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
   DOI: https://doi.org/10.3390/en16145500 · Cited by: 5
 
+- **The impacts of artificial light at night in Africa: Prospects for a research agenda**  
+  Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
+  DOI: https://doi.org/10.17159/sajs.2023/13988 · Cited by: 3
+
 - **A Path Across the Rift: Informing African Energy Transitions by Unearthing Critical Questions and Data Needs**  
   Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
   DOI: https://doi.org/10.46830/wriib.22.00136 · Cited by: 3
-
-- **The impacts of artificial light at night in Africa: Prospects for a research agenda**  
-  Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
-  DOI: https://doi.org/10.17159/sajs.2023/13988 · Cited by: 2
 
 - **Potential of Photovoltaics and Energy Storage to Address Lack of Electricity Access**  
   GF LHer, AG Osborne, A.E. Schweikert, et al. — arXiv (Cornell University) — 2023  
