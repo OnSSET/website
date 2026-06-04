@@ -60,11 +60,11 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
@@ -107,12 +107,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
-  ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
-
-- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
+
+- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
+  ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -131,12 +131,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18501766 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
-  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
-
-- **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
+
+- **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
+  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
 
 - **Final_Ebisa Regasa, Ethiopia(case Oromia using ONSSET)**  
   Ebisa Ragasa — Open MIND — 2026  
@@ -222,9 +222,13 @@ No results found.
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
+- **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
+  Jihyeon Jeong, Fred Thomas, Jim W. Hall — Research Square — 2026  
+  DOI: https://doi.org/10.21203/rs.3.rs-9828710/v1 · Cited by: 0
+
 - **Electricity demand forecasting methodologies and applications: a review**  
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
-  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 29
+  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 30
 
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
@@ -238,10 +242,6 @@ No results found.
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
 
-- **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
-  William Berglund, Andreas Brännström — Lecture notes in computer science — 2025  
-  DOI: https://doi.org/10.1007/978-3-032-11108-1_1 · Cited by: 2
-
 - **Geospatial Planning for Least-Cost Electrification in Developing Countries**  
   Nicolò Ceccato, Corrado Maria Caminiti, Aleksandar Dimovski, et al. — Energies — 2025  
   DOI: https://doi.org/10.3390/en18071784 · Cited by: 2
@@ -249,6 +249,10 @@ No results found.
 - **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
   Nandi Moksnes, Will Usher — iScience — 2025  
   DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 1
+
+- **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
+  Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 1
 
 - **Optimizing Spatial Input Data for Techno-Economic Modeling of Least-Cost Electrification Pathways in Zambia**  
   Katundu Imasiku, Gregory Ireland, Alison Hughes — Journal of Sustainable Development of Energy Water and Environment Systems — 2025  
@@ -277,10 +281,6 @@ No results found.
 - **Application of GIS in Sub-National Energy Planning in Kenya – Integrating Primary Data Into a Least-Cost Electrification Model Using OnSSET (Case Study of Narok County, Kenya)**  
   Douglas Ronoh, Mentis Mentis, Sarah Odera, et al. — 2025  
   DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 1
-
-- **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
-  Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 0
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
@@ -344,7 +344,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 69
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 70
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
@@ -360,7 +360,7 @@ No results found.
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
-  DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 13
+  DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 14
 
 - **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
@@ -462,13 +462,13 @@ No results found.
   Maria C. G. Hart, Sarah Eckhoff, Michael H. Breitner — Environment Development and Sustainability — 2023  
   DOI: https://doi.org/10.1007/s10668-023-03120-4 · Cited by: 8
 
+- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
+  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
+  DOI: https://doi.org/10.3390/en16186489 · Cited by: 8
+
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
   DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 7
-
-- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
-  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 7
 
 - **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
   Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
