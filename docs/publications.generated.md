@@ -348,7 +348,7 @@ No results found.
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17235984 · Cited by: 19
+  DOI: https://doi.org/10.3390/en17235984 · Cited by: 20
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
@@ -420,7 +420,7 @@ No results found.
 
 - **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
   Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 64
+  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 65
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
