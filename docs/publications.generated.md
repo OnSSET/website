@@ -372,7 +372,7 @@ No results found.
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 9
+  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
