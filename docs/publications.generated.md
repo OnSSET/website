@@ -224,7 +224,7 @@ No results found.
 
 - **Electricity demand forecasting methodologies and applications: a review**  
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
-  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 31
+  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 32
 
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
@@ -382,13 +382,13 @@ No results found.
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
   DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 5
 
+- **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
+  Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
+  DOI: https://doi.org/10.3390/en17123022 · Cited by: 5
+
 - **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
   Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
   DOI: https://doi.org/10.1002/sd.3156 · Cited by: 5
-
-- **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
-  Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17123022 · Cited by: 4
 
 - **A High-Resolution Analysis of Electricity Demand for Informed Electrification Planning**  
   Adugnaw Lake Temesgen, Basilio Zeloso S. Tamele, Erik O. Ahlgren — 2024  
@@ -466,6 +466,10 @@ No results found.
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
   DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 7
 
+- **Sustainability Education: Capacity Building Using the MUSE Model**  
+  Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
+  DOI: https://doi.org/10.3390/en16145500 · Cited by: 6
+
 - **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
   Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
   DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 6
@@ -473,10 +477,6 @@ No results found.
 - **Incorporating Elicited Preferences for Equality into Electricity System Planning Modeling**  
   Charles Van-Hein Sackey, Destenie Nock, Christine Cao, et al. — Sustainability — 2023  
   DOI: https://doi.org/10.3390/su152316351 · Cited by: 6
-
-- **Sustainability Education: Capacity Building Using the MUSE Model**  
-  Sara Giarola, Alexander Kell, Sonja Sechi, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16145500 · Cited by: 5
 
 - **The impacts of artificial light at night in Africa: Prospects for a research agenda**  
   Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
