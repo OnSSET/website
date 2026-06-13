@@ -390,10 +390,6 @@ No results found.
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
   DOI: https://doi.org/10.3390/en17123022 · Cited by: 5
 
-- **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
-  Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
-  DOI: https://doi.org/10.1002/sd.3156 · Cited by: 5
-
 - **A High-Resolution Analysis of Electricity Demand for Informed Electrification Planning**  
   Adugnaw Lake Temesgen, Basilio Zeloso S. Tamele, Erik O. Ahlgren — 2024  
   DOI: https://doi.org/10.1109/powerafrica61624.2024.10759429 · Cited by: 3
@@ -428,7 +424,7 @@ No results found.
 
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
-  DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 27
+  DOI: https://doi.org/10.1016/j.apenergy.2023.121131 · Cited by: 28
 
 - **Balancing the scales: Does public debt and energy poverty mitigate or exacerbate ecological distortions in Nigeria?**  
   Uju Regina Ezenekwe, Kingsley Ikechukwu Okere, Stephen Kelechi Dimnwobi, et al. — International Social Science Journal — 2023  
@@ -497,4 +493,8 @@ No results found.
 - **How reliability and carbon prices impact pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Research Square — 2023  
   DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
+
+- **Guidelines for Demand Data Collection for Rural Access to Electricity Projects**  
+  Nicolò Stevanato, Ivan Sangiorgio, Giulia Baldelli, et al. — 2023  
+  DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
 
