@@ -234,10 +234,6 @@ No results found.
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 7
 
-- **Power system expansion and renewable integration for drought-resilient electrification in Zambia**  
-  Anas Abuzayed, Albert Chitandula, Kumbuso Joshua Nyoni, et al. — Energy Policy — 2025  
-  DOI: https://doi.org/10.1016/j.enpol.2025.114786 · Cited by: 6
-
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
@@ -366,6 +362,10 @@ No results found.
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
   DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 13
 
+- **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
+  Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
+  DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 11
+
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 11
@@ -432,7 +432,7 @@ No results found.
 
 - **Integrating Solar Photovoltaic Power Source and Biogas Energy-Based System for Increasing Access to Electricity in Rural Areas of Tanzania**  
   Isaka J. Mwakitalima, M. Rizwan, Narendra Kumar — International Journal of Photoenergy — 2023  
-  DOI: https://doi.org/10.1155/2023/7950699 · Cited by: 20
+  DOI: https://doi.org/10.1155/2023/7950699 · Cited by: 21
 
 - **Addressing Challenges in Long-Term Strategic Energy Planning in LMICs: Learning Pathways in an Energy Planning Ecosystem**  
   Carla Cannone, Pooya Hoseinpoori, Leigh Martindale, et al. — Energies — 2023  
