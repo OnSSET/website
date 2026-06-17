@@ -238,6 +238,10 @@ No results found.
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
 
+- **Techno-Economic Comparison of Microgrids and Traditional Grid Expansion: A Case Study of Myanmar**  
+  Thet Thet Oo, Kang-wook Cho, Soojin Park — Energies — 2025  
+  DOI: https://doi.org/10.3390/en18184988 · Cited by: 3
+
 - **Geospatial Planning for Least-Cost Electrification in Developing Countries**  
   Nicolò Ceccato, Corrado Maria Caminiti, Aleksandar Dimovski, et al. — Energies — 2025  
   DOI: https://doi.org/10.3390/en18071784 · Cited by: 2
@@ -344,7 +348,7 @@ No results found.
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17235984 · Cited by: 20
+  DOI: https://doi.org/10.3390/en17235984 · Cited by: 21
 
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
@@ -382,6 +386,10 @@ No results found.
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 6
 
+- **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
+  Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
+  DOI: https://doi.org/10.1002/sd.3156 · Cited by: 6
+
 - **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
   DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 5
@@ -412,7 +420,7 @@ No results found.
 
 - **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
   Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 65
+  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 66
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
@@ -489,12 +497,4 @@ No results found.
 - **Mapping the County Energy Planning Ecosystem in Kenya**  
   Alycia Leonard, Daniel Mutia Mwendwa, Stephanie Hirmer — Zenodo (CERN European Organization for Nuclear Research) — 2023  
   DOI: https://doi.org/10.5281/zenodo.7818849 · Cited by: 2
-
-- **How reliability and carbon prices impact pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Research Square — 2023  
-  DOI: https://doi.org/10.21203/rs.3.rs-3088625/v1 · Cited by: 2
-
-- **Guidelines for Demand Data Collection for Rural Access to Electricity Projects**  
-  Nicolò Stevanato, Ivan Sangiorgio, Giulia Baldelli, et al. — 2023  
-  DOI: https://doi.org/10.1109/powerafrica57932.2023.10363265 · Cited by: 2
 
