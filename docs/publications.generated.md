@@ -171,12 +171,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
-  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
-
-- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+
+- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
+  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -384,11 +384,15 @@ No results found.
 
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
+  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 11
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
+
+- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
+  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
+  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 6
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
@@ -397,10 +401,6 @@ No results found.
 - **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
   Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
   DOI: https://doi.org/10.1002/sd.3156 · Cited by: 6
-
-- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
-  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 5
 
 - **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
@@ -436,7 +436,7 @@ No results found.
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 29
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 30
 
 - **Quantifying agricultural productive use of energy load in Sub-Saharan Africa and its impact on microgrid configurations and costs**  
   Amanda Farthing, Evan Rosenlieb, Darlene Steward, et al. — Applied Energy — 2023  
