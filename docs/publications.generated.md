@@ -206,6 +206,10 @@ No results found.
   Adama SARR — SSRN Electronic Journal — 2026  
   DOI: https://doi.org/10.2139/ssrn.6666023 · Cited by: 0
 
+- **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
+  Wyatt Arnold, Matteo Giuliani, Andrea Castelletti — Nature Water — 2026  
+  DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 0
+
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Open MIND — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
@@ -224,11 +228,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim W. Hall — Research Square — 2026  
@@ -493,8 +497,4 @@ No results found.
 - **The impacts of artificial light at night in Africa: Prospects for a research agenda**  
   Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
   DOI: https://doi.org/10.17159/sajs.2023/13988 · Cited by: 3
-
-- **A Path Across the Rift: Informing African Energy Transitions by Unearthing Critical Questions and Data Needs**  
-  Sebastian Sterl, Rebekah Shirley, Rose Dortch, et al. — 2023  
-  DOI: https://doi.org/10.46830/wriib.22.00136 · Cited by: 3
 
