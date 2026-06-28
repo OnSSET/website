@@ -242,13 +242,13 @@ No results found.
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
   DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 34
 
+- **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
+  Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
+  DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 7
+
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
   Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 7
-
-- **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
-  Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
-  DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 6
 
 - **Techno-Economic Comparison of Microgrids and Traditional Grid Expansion: A Case Study of Myanmar**  
   Thet Thet Oo, Kang-wook Cho, Soojin Park — Energies — 2025  
