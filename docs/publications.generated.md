@@ -55,12 +55,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.20332280 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
-  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
-
-- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20328728 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -151,12 +151,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18491000 · Cited by: 0
 
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
-  Nawaz Muhammd Saad, Shafqat Mubeen — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
-
-- **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
+
+- **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
+  Nawaz Muhammd Saad, Shafqat Mubeen — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -167,12 +167,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
-  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
-
-- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+
+- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
+  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -228,11 +228,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim W. Hall — Research Square — 2026  
@@ -300,11 +300,11 @@ No results found.
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
 
 - **Mapping the Landscape of Open Science Research in Africa: A Bibliometric Analysis**  
   Samuel Ankamah, Vivian Amponsah, Francis Yeboah, et al. — Ghana Library Journal — 2025  
@@ -319,7 +319,7 @@ No results found.
   DOI: https://doi.org/10.2139/ssrn.5332722 · Cited by: 0
 
 - **Integrerad geospatial och långsiktig elplanering för universell tillgång och avkarbonisering i Burkina Faso**  
-  Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
+  Thompson, Samuel Samon Chandon — Diva portal (Dalarna University Library) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
@@ -339,7 +339,7 @@ No results found.
   DOI: https://doi.org/10.33774/coe-2025-714lh · Cited by: 0
 
 - **Developing a Climate-Aligned Long-Term Energy Systems Model for Madagascar : Integrating OSeMOSYS and OnSSET for Low-Carbon Electrification Planning**  
-  Ifeanyi, Godswill Ebuka — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
+  Ifeanyi, Godswill Ebuka — Diva portal (Dalarna University Library) — 2025  
   OpenAlex: https://openalex.org/W7112351769 · Cited by: 0
 
 - **Data-to-Deal: Component 4. Modelling: Undertaking Deliberative Modelling – A Best Practice Brief.**  
@@ -396,7 +396,7 @@ No results found.
 
 - **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
-  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 6
+  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 7
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
