@@ -96,11 +96,11 @@ No results found.
 
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19231873 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
 
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19231873 · Cited by: 0
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -159,20 +159,20 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
-  Nawaz Muhammd Saad, Shafqat Mubeen — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
-
-- **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503218 · Cited by: 0
 
-- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
-  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
+- **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
+  Nawaz Muhammd Saad, Shafqat Mubeen — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+
+- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
+  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -440,7 +440,7 @@ No results found.
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 58
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 59
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
