@@ -167,12 +167,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
-  Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
-
-- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
+
+- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
+  Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -228,11 +228,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim W. Hall — Research Square — 2026  
@@ -356,7 +356,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 74
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 75
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
@@ -432,7 +432,7 @@ No results found.
 
 - **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
   Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 67
+  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 68
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
