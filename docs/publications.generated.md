@@ -135,12 +135,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18501766 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
-  Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
-
-- **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
+
+- **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
+  Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
 
 - **Final_Ebisa Regasa, Ethiopia(case Oromia using ONSSET)**  
   Ebisa Ragasa — Open MIND — 2026  
@@ -240,7 +240,7 @@ No results found.
 
 - **Electricity demand forecasting methodologies and applications: a review**  
   Prosper O. Ugbehe, Ogheneruona E. Diemuodeke, Daniel O. Aikhuele — Sustainable Energy Research — 2025  
-  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 34
+  DOI: https://doi.org/10.1186/s40807-025-00149-z · Cited by: 35
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
@@ -426,13 +426,13 @@ No results found.
   Godsday Idanegbe Usiabulu, Peter Sydney Aprioku, Ogechi Okoye, et al. — Journal of Engineering Research and Reports — 2024  
   DOI: https://doi.org/10.9734/jerr/2024/v26i11066 · Cited by: 1
 
+- **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
+  Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
+  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 69
+
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 69
-
-- **Sustainability of power generation for developing economies: A systematic review of power sources mix**  
-  Hanif Auwal Ibrahim, Michael Ayomoh, Ramesh C. Bansal, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2023.101085 · Cited by: 68
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
@@ -460,7 +460,7 @@ No results found.
 
 - **Enabling factors for the development of mini-grid solutions in Mozambique: A PESTLE-based analysis**  
   Castro Soares, Diana Shendrikova, Giacomo Crevani, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2022.101040 · Cited by: 15
+  DOI: https://doi.org/10.1016/j.esr.2022.101040 · Cited by: 16
 
 - **MESSAGEix-GLOBIOM Nexus Module: Integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward Byers, et al. — 2023  
