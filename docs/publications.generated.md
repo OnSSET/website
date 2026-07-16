@@ -167,12 +167,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
-  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
-
-- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+
+- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
+  Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -228,11 +228,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim W. Hall — Research Square — 2026  
@@ -262,6 +262,10 @@ No results found.
   Katundu Imasiku, Gregory Ireland, Alison Hughes — Journal of Sustainable Development of Energy Water and Environment Systems — 2025  
   DOI: https://doi.org/10.13044/j.sdewes.d13.0549 · Cited by: 2
 
+- **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
+  Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
+  DOI: https://doi.org/10.1016/j.nexus.2025.100621 · Cited by: 2
+
 - **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
   Nandi Moksnes, Will Usher — iScience — 2025  
   DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 1
@@ -273,10 +277,6 @@ No results found.
 - **Long-term spatially explicit electricity demand scenarios for rural electrification: The case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 1
-
-- **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
-  Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
-  DOI: https://doi.org/10.1016/j.nexus.2025.100621 · Cited by: 1
 
 - **Integrated geospatial modelling for the achievement of universal energy access in Kenya**  
   Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
@@ -368,7 +368,7 @@ No results found.
 
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
-  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 16
+  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 17
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
@@ -436,7 +436,7 @@ No results found.
 
 - **Towards achieving Sustainable Development Goal 7 in <scp>sub‐Saharan</scp> Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 59
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 61
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
