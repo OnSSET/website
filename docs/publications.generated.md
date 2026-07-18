@@ -400,7 +400,7 @@ No results found.
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
-  DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 6
+  DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 7
 
 - **Assessing <scp>sustainable development goal</scp> 7 implementation and its nexus with social, economic and ecological factors in <scp>EU</scp> countries**  
   Marta Kuc‐Czarnecka, Iwona Markowicz, Agnieszka Sompolska‐Rzechuła, et al. — Sustainable Development — 2024  
