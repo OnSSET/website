@@ -456,7 +456,7 @@ No results found.
 
 - **Addressing Challenges in Long-Term Strategic Energy Planning in LMICs: Learning Pathways in an Energy Planning Ecosystem**  
   Carla Cannone, Pooya Hoseinpoori, Leigh Martindale, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16217267 · Cited by: 20
+  DOI: https://doi.org/10.3390/en16217267 · Cited by: 21
 
 - **Enabling factors for the development of mini-grid solutions in Mozambique: A PESTLE-based analysis**  
   Castro Soares, Diana Shendrikova, Giacomo Crevani, et al. — Energy Strategy Reviews — 2023  
