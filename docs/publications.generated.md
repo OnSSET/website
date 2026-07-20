@@ -94,6 +94,10 @@ No results found.
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490863 · Cited by: 0
 
+- **Least-cost technology analisis for electricity Access in Ecuador**  
+  Dennis Copara — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20334058 · Cited by: 0
+
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
@@ -228,11 +232,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim W. Hall — Research Square — 2026  
@@ -493,8 +497,4 @@ No results found.
 - **Incorporating Elicited Preferences for Equality into Electricity System Planning Modeling**  
   Charles Van-Hein Sackey, Destenie Nock, Christine Cao, et al. — Sustainability — 2023  
   DOI: https://doi.org/10.3390/su152316351 · Cited by: 6
-
-- **The impacts of artificial light at night in Africa: Prospects for a research agenda**  
-  Bernard W. T. Coetzee, Izak P. J. Smit, Simone Ackermann, et al. — South African Journal of Science — 2023  
-  DOI: https://doi.org/10.17159/sajs.2023/13988 · Cited by: 3
 
