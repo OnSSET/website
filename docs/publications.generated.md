@@ -215,12 +215,12 @@ No results found.
   DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
-  Abadi Tesfay Yohanes — Open MIND — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
-
-- **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
+
+- **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
+  Abadi Tesfay Yohanes — Open MIND — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
 
 - **Achieving Access to electricity for Somali Region, Ethiopia by 2040 using ONSSET.**  
   Wubalem Mitike — Open MIND — 2026  
@@ -258,33 +258,33 @@ No results found.
   Thet Thet Oo, Kang-wook Cho, Soojin Park — Energies — 2025  
   DOI: https://doi.org/10.3390/en18184988 · Cited by: 3
 
+- **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
+  Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
+  DOI: https://doi.org/10.1016/j.nexus.2025.100621 · Cited by: 3
+
 - **Geospatial Planning for Least-Cost Electrification in Developing Countries**  
   Nicolò Ceccato, Corrado Maria Caminiti, Aleksandar Dimovski, et al. — Energies — 2025  
   DOI: https://doi.org/10.3390/en18071784 · Cited by: 3
+
+- **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
+  Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 2
 
 - **Optimizing Spatial Input Data for Techno-Economic Modeling of Least-Cost Electrification Pathways in Zambia**  
   Katundu Imasiku, Gregory Ireland, Alison Hughes — Journal of Sustainable Development of Energy Water and Environment Systems — 2025  
   DOI: https://doi.org/10.13044/j.sdewes.d13.0549 · Cited by: 2
 
-- **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
-  Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
-  DOI: https://doi.org/10.1016/j.nexus.2025.100621 · Cited by: 2
+- **Integrated geospatial modelling for the achievement of universal energy access in Kenya**  
+  Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
+  DOI: https://doi.org/10.1038/s44406-025-00017-1 · Cited by: 2
 
 - **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
   Nandi Moksnes, Will Usher — iScience — 2025  
   DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 1
 
-- **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
-  Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 1
-
 - **Long-term spatially explicit electricity demand scenarios for rural electrification: The case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 1
-
-- **Integrated geospatial modelling for the achievement of universal energy access in Kenya**  
-  Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
-  DOI: https://doi.org/10.1038/s44406-025-00017-1 · Cited by: 1
 
 - **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
   Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
@@ -304,11 +304,11 @@ No results found.
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
 
 - **Mapping the Landscape of Open Science Research in Africa: A Bibliometric Analysis**  
   Samuel Ankamah, Vivian Amponsah, Francis Yeboah, et al. — Ghana Library Journal — 2025  
