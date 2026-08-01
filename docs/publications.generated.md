@@ -250,6 +250,10 @@ No results found.
   Ebisa Ragasa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18491000 · Cited by: 0
 
+- **Energy supply and public sector performance in Calabar municipality, Cross River State- Nigeria**  
+  Itojong Anthony AYAMBA, Christiana Efiong Awatt, Sylvester Effefiom Nsa, et al. — World Journal of Advanced Research and Reviews — 2026  
+  DOI: https://doi.org/10.30574/wjarr.2026.29.3.0695 · Cited by: 0
+
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
-
-- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
-  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 7
 
