@@ -50,6 +50,10 @@ No results found.
   Caroline Gevaert, Sanja Šćepanović, Nadia Bernaz, et al. — AI and Ethics — 2026  
   DOI: https://doi.org/10.1007/s43681-026-01149-5 · Cited by: 0
 
+- **PROGRESS TO 2030: UGANDA'S OFF-GRID ELECTRIFICATION LESSONS FOR DATA-DRIVEN REGULATION ACROSS SUB-SAHARAN AFRICA**  
+  Job Mutyaba, Isa Kabenge, Simon Kizito, et al. — Environmental Research Communications — 2026  
+  DOI: https://doi.org/10.1088/2515-7620/ae9464 · Cited by: 0
+
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20332280 · Cited by: 0
@@ -271,12 +275,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
-  Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
-
-- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Open MIND — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
+
+- **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
+  Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -456,15 +460,11 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 78
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 79
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
   DOI: https://doi.org/10.3390/en17235984 · Cited by: 22
-
-- **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
-  Muhammad Awais, Adriano Vinca, Edward Byers, et al. — Geoscientific model development — 2024  
-  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 17
 
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
