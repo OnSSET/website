@@ -92,11 +92,11 @@ No results found.
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -319,12 +319,12 @@ No results found.
   DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
-  Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
-
-- **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Open MIND — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
+
+- **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
+  Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
 
 - **Achieving Access to electricity for Somali Region, Ethiopia by 2040 using ONSSET.**  
   Wubalem Mitike — Open MIND — 2026  
@@ -404,11 +404,11 @@ No results found.
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Omondi, Cynthia Achieng — Zenodo (CERN European Organization for Nuclear Research) — 2025  
-  DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.17961683 · Cited by: 0
 
 - **Mapping the Landscape of Open Science Research in Africa: A Bibliometric Analysis**  
   Samuel Ankamah, Vivian Amponsah, Francis Yeboah, et al. — Ghana Library Journal — 2025  
