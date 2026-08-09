@@ -63,12 +63,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.20328728 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
-  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
-
-- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20328727 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
 - **OnSSET processed GIS input data for 23 Sub Sahara Africa countries**  
   KTH Royal Institute of Technology — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -108,11 +108,11 @@ No results found.
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496003 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21509580 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21509580 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21496003 · Cited by: 0
 
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Open MIND — 2026  
@@ -259,12 +259,12 @@ No results found.
   DOI: https://doi.org/10.30574/wjarr.2026.29.3.0695 · Cited by: 0
 
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
-  Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
-
-- **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Open MIND — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
+
+- **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
+  Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -378,6 +378,10 @@ No results found.
   Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
   DOI: https://doi.org/10.1038/s44406-025-00017-1 · Cited by: 2
 
+- **High-resolution global pathways to achieve 100% electricity access in 2030**  
+  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Scientific Reports — 2025  
+  DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 2
+
 - **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
   Nandi Moksnes, Will Usher — iScience — 2025  
   DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 1
@@ -389,10 +393,6 @@ No results found.
 - **IMPACCT: An integrated assessment model for policy and financial decision-making in energy planning**  
   Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 1
-
-- **High-resolution global pathways to achieve 100% electricity access in 2030**  
-  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Scientific Reports — 2025  
-  DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 1
 
 - **Energy resource development in the DRC: A scenario planning for hydroelectric potential development by 2050 based on OSeMOSYS**  
   Benjamin Hodia Kibungu, Bernard Nkanka Ndaye, Cush Luwesi Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
