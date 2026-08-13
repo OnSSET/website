@@ -76,11 +76,11 @@ No results found.
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18353643 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
 
 - **Modernizing Access to Electricity in Madagascar - Insights from GEP-OnSSET geospatial modeling**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -92,11 +92,11 @@ No results found.
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
