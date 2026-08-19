@@ -63,12 +63,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.20328728 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
-  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
-
-- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20328727 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
 - **OnSSET processed GIS input data for 23 Sub Sahara Africa countries**  
   KTH Royal Institute of Technology — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -84,11 +84,11 @@ No results found.
 
 - **Modernizing Access to Electricity in Madagascar - Insights from GEP-OnSSET geospatial modeling**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21523814 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21523815 · Cited by: 0
 
 - **Modernizing Access to Electricity in Madagascar - Insights from GEP-OnSSET geospatial modeling**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21523815 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21523814 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -183,12 +183,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
-  ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
-
-- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
+
+- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
+  ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -260,11 +260,11 @@ No results found.
 
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
 
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -328,19 +328,19 @@ No results found.
 
 - **Achieving Access to electricity for Somali Region, Ethiopia by 2040 using ONSSET.**  
   Wubalem Mitike — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18491003 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18491004 · Cited by: 0
 
 - **Achieving Access to electricity for Somali Region, Ethiopia by 2040 using ONSSET.**  
   Wubalem Mitike — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18491004 · Cited by: 0
-
-- **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
-  Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18491003 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+
+- **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
+  Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim Hall — Research Square — 2026  
@@ -460,7 +460,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 80
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 82
 
 - **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
   Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
