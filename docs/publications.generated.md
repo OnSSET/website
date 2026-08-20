@@ -50,7 +50,7 @@ No results found.
   Caroline Gevaert, Sanja Šćepanović, Nadia Bernaz, et al. — AI and Ethics — 2026  
   DOI: https://doi.org/10.1007/s43681-026-01149-5 · Cited by: 0
 
-- **PROGRESS TO 2030: UGANDA'S OFF-GRID ELECTRIFICATION LESSONS FOR DATA-DRIVEN REGULATION ACROSS SUB-SAHARAN AFRICA**  
+- **Progress to 2030: Uganda’s off-grid electrification lessons for data-driven regulation across Sub-Saharan Africa**  
   Job Mutyaba, Isa Kabenge, Simon Kizito, et al. — Environmental Research Communications — 2026  
   DOI: https://doi.org/10.1088/2515-7620/ae9464 · Cited by: 0
 
@@ -336,11 +336,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim Hall — Research Square — 2026  
@@ -442,6 +442,10 @@ No results found.
   Neve Fields, Leigh Martindale, Marissa Bergman, et al. — 2025  
   DOI: https://doi.org/10.33774/coe-2025-714lh · Cited by: 0
 
+- **Digitalization in Off-Grid Systems 2025**  
+  Philipp Blechinger, Narges Chinichian, Jad Mhanna, et al. — 2025  
+  DOI: https://doi.org/10.69766/xfzp8388 · Cited by: 0
+
 - **Developing a Climate-Aligned Long-Term Energy Systems Model for Madagascar : Integrating OSeMOSYS and OnSSET for Low-Carbon Electrification Planning**  
   Ifeanyi, Godswill Ebuka — Diva portal (Dalarna University Library) — 2025  
   OpenAlex: https://openalex.org/W7112351769 · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
-
-- **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
-  DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 7
 
