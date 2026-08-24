@@ -183,16 +183,16 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
-  ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
-
-- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18502895 · Cited by: 0
+
+- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
+  ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -480,7 +480,7 @@ No results found.
 
 - **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 13
+  DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 14
 
 - **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
