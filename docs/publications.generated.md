@@ -92,11 +92,11 @@ No results found.
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -108,11 +108,11 @@ No results found.
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21509580 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21496003 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496003 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21509580 · Cited by: 0
 
 - **Least-cost technology assessment using OnSSET in Ethiopia's Amhara region by 2035**  
   Abreham Befikadu Zeleke — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -236,11 +236,11 @@ No results found.
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -260,11 +260,11 @@ No results found.
 
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
 
 - **EMP-A-OnSSET-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503152 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503153 · Cited by: 0
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
