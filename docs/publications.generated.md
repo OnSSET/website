@@ -63,12 +63,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.20328728 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
-  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
-
-- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20328727 · Cited by: 0
+
+- **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
+  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
 - **OnSSET processed GIS input data for 23 Sub Sahara Africa countries**  
   KTH Royal Institute of Technology — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -97,6 +97,10 @@ No results found.
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
+
+- **Materials in energy system modelling: A review and integrated energy–material framework for circular economy and decarbonisation pathways**  
+  Efstratios Mikropoulos, Toon van Harmelen, Ernst Worrell, et al. — Energy Strategy Reviews — 2026  
+  DOI: https://doi.org/10.1016/j.esr.2026.102342 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -136,11 +140,11 @@ No results found.
 
 - **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496299 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21496300 · Cited by: 0
 
 - **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496300 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21496299 · Cited by: 0
 
 - **Least-Cost Electrification Planning for Nigeria under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -493,8 +497,4 @@ No results found.
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
   DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 11
-
-- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
-  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
 
