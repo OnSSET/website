@@ -54,6 +54,10 @@ No results found.
   Job Mutyaba, Isa Kabenge, Simon Kizito, et al. — Environmental Research Communications — 2026  
   DOI: https://doi.org/10.1088/2515-7620/ae9464 · Cited by: 0
 
+- **Peeling off the layers: A geospatial modeling framework for ex-ante assessment of electrification subsidy schemes uncovers their inefficiencies and implications for equitable rural electrification in Sierra Leone**  
+  Lefu Maqelepo, Jay Taneja, Nathan Williams — The Electricity Journal — 2026  
+  DOI: https://doi.org/10.1016/j.tej.2026.107570 · Cited by: 0
+
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
   AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20332280 · Cited by: 0
@@ -152,11 +156,11 @@ No results found.
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21510416 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21510415 · Cited by: 0
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21510415 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21510416 · Cited by: 0
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -272,11 +276,11 @@ No results found.
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503218 · Cited by: 0
 
 - **EMP-A 2026-OnSSET-Report-Pakistan-Mubeen Shafqat & Saad Nawaz**  
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503218 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -493,8 +497,4 @@ No results found.
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 11
-
-- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
-  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 11
 
