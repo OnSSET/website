@@ -342,6 +342,10 @@ No results found.
   Wubalem Mitike — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18491004 · Cited by: 0
 
+- **A Systematic Review of Challenges in the Implementation and Integration of Decentralized Microgrids**  
+  Gbigbidje Favour Peter, Omughele Reuben Avwerosuo, Uyesievwa Samuel, et al. — International Journal of Recent Engineering Science — 2026  
+  DOI: https://doi.org/10.14445/23497157/ijres-v13i2p104 · Cited by: 0
+
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
   DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 13
-
-- **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
-  Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 11
 
