@@ -368,7 +368,7 @@ No results found.
 
 - **Techno-Economic Comparison of Microgrids and Traditional Grid Expansion: A Case Study of Myanmar**  
   Thet Thet Oo, Kang-wook Cho, Soojin Park — Energies — 2025  
-  DOI: https://doi.org/10.3390/en18184988 · Cited by: 4
+  DOI: https://doi.org/10.3390/en18184988 · Cited by: 5
 
 - **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
