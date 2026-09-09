@@ -46,10 +46,6 @@ No results found.
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 0
 
-- **Responsible Artificial Intelligence for Earth observation: human rights and the EU AI act**  
-  Caroline Gevaert, Sanja Šćepanović, Nadia Bernaz, et al. — AI and Ethics — 2026  
-  DOI: https://doi.org/10.1007/s43681-026-01149-5 · Cited by: 0
-
 - **Progress to 2030: Uganda’s off-grid electrification lessons for data-driven regulation across Sub-Saharan Africa**  
   Job Mutyaba, Isa Kabenge, Simon Kizito, et al. — Environmental Research Communications — 2026  
   DOI: https://doi.org/10.1088/2515-7620/ae9464 · Cited by: 0
@@ -88,11 +84,11 @@ No results found.
 
 - **Modernizing Access to Electricity in Madagascar - Insights from GEP-OnSSET geospatial modeling**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21523814 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21523815 · Cited by: 0
 
 - **Modernizing Access to Electricity in Madagascar - Insights from GEP-OnSSET geospatial modeling**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21523815 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21523814 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -240,11 +236,11 @@ No results found.
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -497,4 +493,8 @@ No results found.
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
   DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 11
+
+- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
+  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
+  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
 
