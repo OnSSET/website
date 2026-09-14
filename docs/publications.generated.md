@@ -286,6 +286,14 @@ No results found.
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
   DOI: https://doi.org/10.2139/ssrn.6470569 · Cited by: 0
 
+- **Data set for the article "Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET"**  
+  Adama Sarr, Cheikh Mouhamed Fadel Kébé, Dan-Baibe Sébastien Ahmany, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.22699076 · Cited by: 0
+
+- **Data set for the article "Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET"**  
+  Adama Sarr, Cheikh Mouhamed Fadel Kébé, Dan-Baibe Sébastien Ahmany, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.22699075 · Cited by: 0
+
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504203 · Cited by: 0
@@ -296,11 +304,11 @@ No results found.
 
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502902 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18502901 · Cited by: 0
 
 - **CÔTE D'IVOIRE ELECTRIFICATION PLANNING USING GEOSPATIAL MODELLING (OnSSET)**  
   Alloubra Marie Emmanuelle AFFAINIE GASSON, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502901 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18502902 · Cited by: 0
 
 - **Corrigendum to “Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)” [Energy Nexus 21 (2026) 100621]**  
   Adama SARR, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2026  
@@ -320,11 +328,11 @@ No results found.
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18490898 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
 
 - **Achieving Access to electricity for Somali Region, Ethiopia by 2040 using ONSSET.**  
   Wubalem Mitike — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -345,6 +353,10 @@ No results found.
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+
+- **A global mobile network coverage raster product at 1km resolution, 1999--2030**  
+  Till Koebe, Theophilus Aidoo, Ali El Chami, et al. — arXiv (Cornell University) — 2026  
+  DOI: https://doi.org/10.48550/arxiv.2609.11320 · Cited by: 0
 
 - **A global geospatial dataset of renewable electricity supply and network infrastructure for 2024, 2030 and 2050**  
   Jihyeon Jeong, Fred Thomas, Jim Hall — Research Square — 2026  
@@ -458,10 +470,6 @@ No results found.
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101657 · Cited by: 0
 
-- **Untitled**  
-  Revista Brasileira de Energia — 2025  
-  DOI: https://doi.org/10.47168/rbe.v30i3 · Cited by: 0
-
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 82
@@ -489,12 +497,4 @@ No results found.
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 11
-
-- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
-  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 11
-
-- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
-  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
 
