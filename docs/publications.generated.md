@@ -92,11 +92,11 @@ No results found.
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -191,12 +191,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
-  ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
-
-- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
+
+- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
+  ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -232,11 +232,11 @@ No results found.
 
 - **Geospatial Electrification Planning For Ghana Using ONSSET**  
   Mary Fremah Adu — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21511242 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21511243 · Cited by: 0
 
 - **Geospatial Electrification Planning For Ghana Using ONSSET**  
   Mary Fremah Adu — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21511243 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21511242 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -284,11 +284,11 @@ No results found.
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
 
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18504703 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -379,7 +379,7 @@ No results found.
   DOI: https://doi.org/10.21203/rs.3.rs-9828710/v1 · Cited by: 0
 
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
-  Jessica Kersey, Samuel Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
+  Jessica Kersey, Samuel B. Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 8
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
@@ -407,7 +407,7 @@ No results found.
   DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 2
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
-  Salisu Isihak, Uduak Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
+  Salisu R. Isihak, Uduak S. Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 2
 
 - **Optimizing Spatial Input Data for Techno-Economic Modeling of Least-Cost Electrification Pathways in Zambia**  
