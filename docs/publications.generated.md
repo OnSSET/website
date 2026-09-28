@@ -32,11 +32,11 @@ No results found.
 
 - **SPLICE Dataset: Integrated Electrification and Power System Planning with OnSSET and PyPSA-Earth - UGANDA**  
   Corrado Maria Caminiti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20157076 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.20157075 · Cited by: 0
 
 - **SPLICE Dataset: Integrated Electrification and Power System Planning with OnSSET and PyPSA-Earth - UGANDA**  
   Corrado Maria Caminiti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20157075 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.20157076 · Cited by: 0
 
 - **SPLICE Dataset: Integrated Electrification and Power System Planning with OnSSET and PyPSA-Earth - UGANDA**  
   Corrado Maria Caminiti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -168,11 +168,11 @@ No results found.
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21510647 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21510633 · Cited by: 0
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21510633 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21510647 · Cited by: 0
 
 - **LEAST COST ELECTRIFICATION STUDY FOR BANGLADESH USING GEOSPATIAL MODELLING (OnSSET)**  
   Raihan Mahmud Chowdhury, Saikot Mahmud — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -192,11 +192,11 @@ No results found.
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
   ELISE MULUNGO, ERIC KAYEMBE, DANIEL KALALIZI, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -224,11 +224,11 @@ No results found.
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503220 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503219 · Cited by: 0
 
 - **Geospatial Electrification Planning for Ghana Using OnSSET: A Least-Cost Pathway to Universal Electricity Access by 2030**  
   Mary Fremah Adu — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -435,11 +435,11 @@ No results found.
   DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 1
 
 - **Energy resource development in the DRC: A scenario planning for hydroelectric potential development by 2050 based on OSeMOSYS**  
-  Benjamin Hodia Kibungu, Bernard Nkanka Ndaye, Cush L. Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
+  Benjamin Hodia Kibungu, Bernard Nkanka Ndaye, Cush Luwesi Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
   DOI: https://doi.org/10.61435/ijred.2025.61121 · Cited by: 1
 
 - **Application of GIS in Sub-National Energy Planning in Kenya – Integrating Primary Data Into a Least-Cost Electrification Model Using OnSSET (Case Study of Narok County, Kenya)**  
-  Douglas Ronoh, Mentis Mentis, Sarah Odera, et al. — 2025  
+  Douglas Ronoh, Mentis Mentis, Sarah Anyango Odera, et al. — 2025  
   DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 1
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
@@ -483,7 +483,7 @@ No results found.
   OpenAlex: https://openalex.org/W7112351769 · Cited by: 0
 
 - **Data-to-Deal: Component 4. Modelling: Undertaking Deliberative Modelling – A Best Practice Brief.**  
-  Fernando Plazas-Niño, Jairo Quirós‐Tortós, Claire Nicolas, et al. — 2025  
+  Fernando Antonio Plazas-Niño, Jairo Quirós‐Tortós, Claire Nicolas, et al. — 2025  
   DOI: https://doi.org/10.33774/coe-2025-xgfkn · Cited by: 0
 
 - **Corrigendum to ‘Analyzing grid extension suitability: A case study of Ethiopia using OnSSET’ [Energy Strategy Rev. Volume 52 (2024) 101292 /Article Number]**  
