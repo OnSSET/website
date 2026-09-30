@@ -26,6 +26,10 @@ No results found.
   Joseph M. Ntayi, Slyvia Aarakit, Herbert Murungi, et al. — Energy Research & Social Science — 2026  
   DOI: https://doi.org/10.1016/j.erss.2026.104540 · Cited by: 1
 
+- **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
+  Wyatt Arnold, Matteo Giuliani, Andrea Francesco Castelletti — Nature Water — 2026  
+  DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 1
+
 - **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 1
@@ -100,11 +104,11 @@ No results found.
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
 
 - **Moderniser l'Accès à l'Électricité à Madagascar - Perspectives issues de la modélisation géospatiale GEP-OnSSET**  
   Christian TOMBO — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21530438 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21530439 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -132,11 +136,15 @@ No results found.
 
 - **Least-Cost Electrification Study for Bangladesh Using Geospatial Modelling (OnSSET)**  
   Raihan Mahmud Chowdhury, Saikot Mahmud — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21520460 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21520461 · Cited by: 0
 
 - **Least-Cost Electrification Study for Bangladesh Using Geospatial Modelling (OnSSET)**  
   Raihan Mahmud Chowdhury, Saikot Mahmud — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21520461 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21520460 · Cited by: 0
+
+- **Least-Cost Electrification Planning for Nigeria under Mission 300: A Geospatial Analysis Using OnSSET**  
+  Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.21513884 · Cited by: 0
 
 - **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -145,10 +153,6 @@ No results found.
 - **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.21496300 · Cited by: 0
-
-- **Least-Cost Electrification Planning for Nigeria under Mission 300: A Geospatial Analysis Using OnSSET**  
-  Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21513884 · Cited by: 0
 
 - **Least-Cost Electrification Planning for Nigeria under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -349,10 +353,6 @@ No results found.
 - **Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET**  
   Adama Sarr, Cheikh Mouhamed Fadel Kébé, Dan-Baibe Sébastien Ahmany, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2026.102319 · Cited by: 0
-
-- **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
-  Wyatt Arnold, Matteo Giuliani, Andrea Francesco Castelletti — Nature Water — 2026  
-  DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
