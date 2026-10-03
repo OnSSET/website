@@ -256,11 +256,11 @@ No results found.
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
