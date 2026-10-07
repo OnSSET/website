@@ -40,11 +40,11 @@ No results found.
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18503428 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18503429 · Cited by: 0
 
 - **Strategic Roadmap for Universal Electricity Access in Myanmar**  
   Myoe Myint — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -72,11 +72,11 @@ No results found.
 
 - **Specification of the Eastern Africa Case Studies**  
   Kanchwodia Gashaw, Hermela Fantu, Tinsae Wondimu, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18888176 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18888177 · Cited by: 0
 
 - **Specification of the Eastern Africa Case Studies**  
   Kanchwodia Gashaw, Hermela Fantu, Tinsae Wondimu, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18888177 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.18888176 · Cited by: 0
 
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
@@ -144,11 +144,11 @@ No results found.
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496004 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21509579 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21509579 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21496004 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -192,11 +192,15 @@ No results found.
 
 - **Least-Cost Electrification Study for Bangladesh Using Geospatial Modelling (OnSSET)**  
   Raihan Mahmud Chowdhury, Saikot Mahmud — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21520460 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21520461 · Cited by: 0
 
 - **Least-Cost Electrification Study for Bangladesh Using Geospatial Modelling (OnSSET)**  
   Raihan Mahmud Chowdhury, Saikot Mahmud — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21520461 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21520460 · Cited by: 0
+
+- **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
+  Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.21496299 · Cited by: 0
 
 - **Least-Cost Electrification Planning for Nigeria under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -205,10 +209,6 @@ No results found.
 - **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.21496300 · Cited by: 0
-
-- **Least-Cost Electrification Planning for Nigeria Under Mission 300: A Geospatial Analysis Using OnSSET**  
-  Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496299 · Cited by: 0
 
 - **Least-Cost Electrification Planning for Nigeria under Mission 300: A Geospatial Analysis Using OnSSET**  
   Oluwaseyi John Adegboye — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -228,19 +228,19 @@ No results found.
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21510633 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21510647 · Cited by: 0
 
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21510647 · Cited by: 0
-
-- **Least-Cost Electrification Analysis for the State of Caquetá, Colombia**  
-  ACOSTA ESTEBAN, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.20333543 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21510633 · Cited by: 0
 
 - **Least-Cost Electrification Analysis for the State of Caquetá, Colombia**  
   ACOSTA ESTEBAN, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20333542 · Cited by: 0
+
+- **Least-Cost Electrification Analysis for the State of Caquetá, Colombia**  
+  ACOSTA ESTEBAN, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.20333543 · Cited by: 0
 
 - **Least-Cost Electrification Analysis for the State of Acre, Brazil**  
   Leron Joseph — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -259,12 +259,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.21495976 · Cited by: 0
 
 - **Kenya Electrification Pathways to 2030**  
-  Brenda Kiwelu, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18505275 · Cited by: 0
-
-- **Kenya Electrification Pathways to 2030**  
   Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18510531 · Cited by: 0
+
+- **Kenya Electrification Pathways to 2030**  
+  Brenda Kiwelu, Stella Chelangat Mutai, Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18505275 · Cited by: 0
 
 - **Kenya Electrification Pathways to 2030**  
   Brenda Kiwelu, Nicky Middleton, Stella Chelangat Mutai — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -281,6 +281,14 @@ No results found.
 - **GIS-Based Assessment of Universal Electricity Access in Uganda Using OnSSET**  
   Jane Namaganda-Kiyimba, Shem Christopher Luwandaga, Peter Thorine Kyanzi, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.22809395 · Cited by: 0
+
+- **GIS datasets used in OnSSET based geospatial electrification analysis for Ethiopia**  
+  Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23110437 · Cited by: 0
+
+- **GIS datasets used in OnSSET based geospatial electrification analysis for Ethiopia**  
+  Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23110438 · Cited by: 0
 
 - **Geospatial Tools for Energy Access**  
   Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -299,12 +307,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503441 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
-  ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
-
-- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
+
+- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
+  ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18502896 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -352,11 +360,11 @@ No results found.
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21499733 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21517053 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION MODELLING FOR ZAMBIA USING ONSSET**  
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -408,11 +416,11 @@ No results found.
 
 - **Dataset for Senegal Case study with OnSSET: Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.22897141 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.22897142 · Cited by: 0
 
 - **Dataset for Senegal Case study with OnSSET: Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.22897142 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.22897141 · Cited by: 0
 
 - **Data-driven strategies for universal electricity access: Insights from a high-resolution case study in Ethiopia**  
   Adugnaw Lake Temesgen, Dawit Habtu Gebremeskel, Ingeborg Graabak, et al. — SSRN Electronic Journal — 2026  
@@ -476,11 +484,11 @@ No results found.
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A Systematic Literature Review of Applications, Advancements, and Future Research Needs of the Open Source Spatial Electrification Toolkit (OnSSET)**  
   Nicola Middleton, Naomi Tan, Mark Howells — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.19353317 · Cited by: 0
 
 - **A suite of linked and opensource models adapted to Africa**  
   Jonathan Hanto, Sandrine Charousset-Brignol, Mohamed Abbas Eltahir Elabbas, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -489,12 +497,4 @@ No results found.
 - **A suite of linked and opensource models adapted to Africa**  
   Jonathan Hanto, Sandrine Charousset-Brignol, Mohamed Abbas Eltahir Elabbas, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18887137 · Cited by: 0
-
-- **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
-  Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
-  DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 7
-
-- **High-resolution global pathways to achieve 100% electricity access in 2030**  
-  Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Scientific Reports — 2025  
-  DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 4
 
