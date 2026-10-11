@@ -470,6 +470,10 @@ No results found.
   Godsday Idanegbe Usiabulu, Peter Sydney Aprioku, Ogechi Okoye, et al. — Journal of Engineering Research and Reports — 2024  
   DOI: https://doi.org/10.9734/jerr/2024/v26i11066 · Cited by: 1
 
+- **Achieving renewable energy-centered sustainable development futures for rural Africa**  
+  Giacomo Falchetta, Adriano Vinca, Gregory Ireland, et al. — 2024  
+  DOI: https://doi.org/10.5194/egusphere-egu24-15943 · Cited by: 0
+
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 75
@@ -493,8 +497,4 @@ No results found.
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
   DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 9
-
-- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
-  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 8
 
