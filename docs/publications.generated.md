@@ -23,7 +23,7 @@ No results found.
   DOI: https://doi.org/10.1088/2634-4505/ae5556 · Cited by: 1
 
 - **Geospatial electrification pathways for Sub-Saharan Africa: A systematic review of planning tools, implementation strategies, and socio-economic impacts**  
-  Joseph M. Ntayi, Slyvia Aarakit, Herbert Murungi, et al. — Energy Research & Social Science — 2026  
+  Joseph Mpeera Ntayi, Sylvia Manjeri Aarakit, Herbert Murungi, et al. — Energy Research & Social Science — 2026  
   DOI: https://doi.org/10.1016/j.erss.2026.104540 · Cited by: 1
 
 - **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
@@ -267,12 +267,12 @@ No results found.
   DOI: https://doi.org/10.1016/j.nexus.2026.100689 · Cited by: 0
 
 - **Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET**  
-  Adama SARR — SSRN Electronic Journal — 2026  
-  DOI: https://doi.org/10.2139/ssrn.6666023 · Cited by: 0
-
-- **Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET**  
   Adama Sarr, Cheikh Mouhamed Fadel Kébé, Dan-Baibe Sébastien Ahmany, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2026.102319 · Cited by: 0
+
+- **Challenges of Integrating Off-Grid Solar Systems with NEPA/DISCO Distribution Networks in Nigeria**  
+  Abraham Odigiri — SSRN Electronic Journal — 2026  
+  DOI: https://doi.org/10.2139/ssrn.6637218 · Cited by: 0
 
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -291,7 +291,7 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.19353316 · Cited by: 0
 
 - **A suite of linked and opensource models adapted to Africa**  
-  Jonathan Hanto, Sandrine Charousset-Brignol, Mohamed Abbas Eltahir Elabbas, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  Jonathan Hanto, Sandrine Charousset-Brignol, Mohamed A. Eltahir Elabbas, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18887137 · Cited by: 0
 
 - **A Probabilistic Dual-Track Framework for Least-Cost Electrification in Sub-Saharan Africa**  
@@ -316,7 +316,7 @@ No results found.
 
 - **High-resolution global pathways to achieve 100% electricity access in 2030**  
   Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Scientific Reports — 2025  
-  DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 4
+  DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 5
 
 - **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
@@ -351,7 +351,7 @@ No results found.
   DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 1
 
 - **Energy resource development in the DRC: A scenario planning for hydroelectric potential development by 2050 based on OSeMOSYS**  
-  Benjamin Hodia Kibungu, Bernard Nkanka Ndaye, Cush Luwesi Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
+  Benjamin Hodia Kibungu, B.N. Nkanka, Cush Luwesi Ngonzo, et al. — International Journal of Renewable Energy Development — 2025  
   DOI: https://doi.org/10.61435/ijred.2025.61121 · Cited by: 1
 
 - **Application of GIS in Sub-National Energy Planning in Kenya – Integrating Primary Data Into a Least-Cost Electrification Model Using OnSSET (Case Study of Narok County, Kenya)**  
@@ -374,17 +374,9 @@ No results found.
   Glory Adebayo, Linda Fynn Prah, Sunday Philip Akingbemisola — Path of Science — 2025  
   DOI: https://doi.org/10.22178/pos.123-2 · Cited by: 0
 
-- **Least-Cost Electrification Pathways for Senegal by 2030: A Nationwide Analysis Using Open-Source Spatial Electrification Tool (Onsset)**  
-  Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — SSRN Electronic Journal — 2025  
-  DOI: https://doi.org/10.2139/ssrn.5332722 · Cited by: 0
-
 - **Integrerad geospatial och långsiktig elplanering för universell tillgång och avkarbonisering i Burkina Faso**  
   Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
-
-- **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
-  Adugnaw Lake Temesgen, Getachew Bekele — Research Square — 2025  
-  DOI: https://doi.org/10.21203/rs.3.rs-5788766/v1 · Cited by: 0
 
 - **Geospatial planning for the rural electrification of the Amazon - Suriname case study**  
   Rudi Henri van Els, Amrita Raghoebarsing — Revista Brasileira de Energia — 2025  
@@ -416,15 +408,15 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 86
-
-- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
-  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
-  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 18
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 85
 
 - **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 17
+
+- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
+  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
+  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 17
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
@@ -440,15 +432,15 @@ No results found.
 
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 11
-
-- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
-  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
+  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 9
+
+- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
+  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
+  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 9
 
 - **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
@@ -460,7 +452,7 @@ No results found.
 
 - **A High-Resolution Analysis of Electricity Demand for Informed Electrification Planning**  
   Adugnaw Lake Temesgen, Basilio Zeloso S. Tamele, Erik O. Ahlgren — IEEE PES/IAS PowerAfrica Conference (PowerAfrica) — 2024  
-  DOI: https://doi.org/10.1109/powerafrica61624.2024.10759429 · Cited by: 3
+  DOI: https://doi.org/10.1109/powerafrica61624.2024.10759429 · Cited by: 2
 
 - **ОПТИМАЛЬНОЕ ПРОЕКТИРОВАНИЕ СИСТЕМ ЭЛЕКТРОСНАБЖЕНИЯ НА ЭВМ С УЧЕТОМ КРИТЕРИЕВ НАДЕЖНОСТИ И ЭКОНОМИЧНОСТИ**  
   С.С. Трунов, A. V. Krupnov — Bulletin of the Tver State Technical University Series «Building Electrical engineering and chemical technology» — 2024  
@@ -476,7 +468,7 @@ No results found.
 
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
-  DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 75
+  DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 74
 
 - **Towards achieving Sustainable Development Goal 7 in sub‐Saharan Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
@@ -484,17 +476,25 @@ No results found.
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 32
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 30
 
 - **Real Options and their application in renewable energy projects. State-of-the-art review**  
   Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Región Científica — 2023  
   DOI: https://doi.org/10.58763/rc202349 · Cited by: 10
 
-- **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
-  Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
-  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 10
-
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
   DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 9
+
+- **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
+  Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
+  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 9
+
+- **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
+  Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
+  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 7
+
+- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
+  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
+  DOI: https://doi.org/10.3390/en16186489 · Cited by: 7
 
