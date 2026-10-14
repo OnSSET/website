@@ -266,6 +266,10 @@ No results found.
   Adama SARR, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2026  
   DOI: https://doi.org/10.1016/j.nexus.2026.100689 · Cited by: 0
 
+- **Corrigendum to “Climate hazard screening in energy access planning for sub-Saharan Africa” [Sustainable Futures 12 (2026) 102146]**  
+  Daniel Adshead, Scott Thacker, Raghav Pant, et al. — Sustainable Futures — 2026  
+  DOI: https://doi.org/10.1016/j.sftr.2026.102219 · Cited by: 0
+
 - **Comparative least-cost electrification pathways in West Africa: A spatially explicit analysis using OnSSET**  
   Adama Sarr, Cheikh Mouhamed Fadel Kébé, Dan-Baibe Sébastien Ahmany, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2026.102319 · Cited by: 0
@@ -493,8 +497,4 @@ No results found.
 - **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
   Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
   DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 7
-
-- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
-  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 7
 
