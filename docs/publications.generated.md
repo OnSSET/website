@@ -179,7 +179,7 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.23110437 · Cited by: 0
 
 - **Geospatial Tools for Energy Access**  
-  Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  Manuel Enrique Salas Salazar, Camilo Ramírez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.19231872 · Cited by: 0
 
 - **GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING OnSSET**  
@@ -242,6 +242,10 @@ No results found.
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
 
+- **Development of a Just Energy Plan: The Case of Makueni County, Kenya**  
+  Sarah Anyango Odera, Camilo Ramírez, Dimitris Mentis, et al. — SSRN Electronic Journal — 2026  
+  DOI: https://doi.org/10.2139/ssrn.7607865 · Cited by: 0
+
 - **Dataset for Senegal Case study with OnSSET: Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.22897141 · Cited by: 0
@@ -274,10 +278,6 @@ No results found.
   Adama Sarr, Cheikh Mouhamed Fadel Kébé, Dan-Baibe Sébastien Ahmany, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2026.102319 · Cited by: 0
 
-- **Challenges of Integrating Off-Grid Solar Systems with NEPA/DISCO Distribution Networks in Nigeria**  
-  Abraham Odigiri — SSRN Electronic Journal — 2026  
-  DOI: https://doi.org/10.2139/ssrn.6637218 · Cited by: 0
-
 - **Assessing the Electrification Challenges in Tigray Region Using OnSSET Modelling**  
   Abadi Tesfay Yohanes — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490897 · Cited by: 0
@@ -307,7 +307,7 @@ No results found.
   DOI: https://doi.org/10.48550/arxiv.2609.11320 · Cited by: 0
 
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
-  Jessica Kersey, Samuel B. Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
+  Jessica Kersey, Samuel B. Miles, V. Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 8
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
@@ -322,6 +322,10 @@ No results found.
   Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Scientific Reports — 2025  
   DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 5
 
+- **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
+  Salisu R. Isihak, Uduak S. Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
+  DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 3
+
 - **Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)**  
   Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2025  
   DOI: https://doi.org/10.1016/j.nexus.2025.100621 · Cited by: 3
@@ -333,10 +337,6 @@ No results found.
 - **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
   Nandi Moksnes, Will Usher — iScience — 2025  
   DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 2
-
-- **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
-  Salisu R. Isihak, Uduak S. Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
-  DOI: https://doi.org/10.1016/j.esr.2025.101807 · Cited by: 2
 
 - **Optimizing Spatial Input Data for Techno-Economic Modeling of Least-Cost Electrification Pathways in Zambia**  
   Katundu Imasiku, Gregory Ireland, Alison Hughes — Journal of Sustainable Development of Energy Water and Environment Systems — 2025  
@@ -363,7 +363,7 @@ No results found.
   DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 1
 
 - **Road files for all continental SSA countries**  
-  Manuel Enrique Salas Salazar, Camilo Ramirez Gomez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
+  Manuel Enrique Salas Salazar, Camilo Ramírez, Francesco Fuso Nerini — Zenodo (CERN European Organization for Nuclear Research) — 2025  
   DOI: https://doi.org/10.5281/zenodo.18311260 · Cited by: 0
 
 - **OnSSET with spatial changes in urbanisation in Kenya**  
@@ -432,7 +432,7 @@ No results found.
 
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 12
+  DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 13
 
 - **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
   Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
@@ -494,7 +494,7 @@ No results found.
   Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
   DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 9
 
-- **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
-  Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
-  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 7
+- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
+  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
+  DOI: https://doi.org/10.3390/en16186489 · Cited by: 8
 
