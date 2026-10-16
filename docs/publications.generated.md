@@ -218,6 +218,10 @@ No results found.
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.21499732 · Cited by: 0
 
+- **From Energy Model Outputs to Policy Uptake: Political Economy-Informed Energy System Modelling in Developing Countries**  
+  Phemelo Tamasiga, Benard Musekese Wabukala, Bright Mutuma Gitari, et al. — Renewable and Sustainable Energy Transition — 2026  
+  DOI: https://doi.org/10.1016/j.rset.2026.100172 · Cited by: 0
+
 - **Final_Ebisa Regasa, Ethiopia(case Oromia using ONSSET)**  
   Ebisa Ragasa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490999 · Cited by: 0
@@ -412,7 +416,7 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 85
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 87
 
 - **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
@@ -493,8 +497,4 @@ No results found.
 - **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
   Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
   DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 9
-
-- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
-  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 8
 
