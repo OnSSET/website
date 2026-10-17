@@ -456,7 +456,7 @@ No results found.
 
 - **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17123022 · Cited by: 6
+  DOI: https://doi.org/10.3390/en17123022 · Cited by: 7
 
 - **A High-Resolution Analysis of Electricity Demand for Informed Electrification Planning**  
   Adugnaw Lake Temesgen, Basilio Zeloso S. Tamele, Erik O. Ahlgren — IEEE PES/IAS PowerAfrica Conference (PowerAfrica) — 2024  
