@@ -311,7 +311,7 @@ No results found.
   DOI: https://doi.org/10.48550/arxiv.2609.11320 · Cited by: 0
 
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
-  Jessica Kersey, Samuel B. Miles, V. Sakhrani, et al. — Applied Geography — 2025  
+  Jessica Kersey, Samuel B. Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 8
 
 - **GIS-based assessment of economically feasible off-grid mini-grids in Ethiopia**  
@@ -418,13 +418,13 @@ No results found.
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 87
 
+- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
+  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
+  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 18
+
 - **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 17
-
-- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
-  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
-  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 17
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
@@ -443,7 +443,7 @@ No results found.
   DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
-  Sebastian Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
+  Sebastian Hendrik Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 9
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
@@ -480,7 +480,7 @@ No results found.
 
 - **Towards achieving Sustainable Development Goal 7 in sub‐Saharan Africa: Role of governance and renewable energy**  
   Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 63
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 64
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
