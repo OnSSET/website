@@ -438,10 +438,6 @@ No results found.
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 13
 
-- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
-  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
-
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Hendrik Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 9
@@ -497,4 +493,8 @@ No results found.
 - **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
   Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
   DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 9
+
+- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
+  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
+  DOI: https://doi.org/10.3390/en16186489 · Cited by: 9
 
