@@ -218,7 +218,7 @@ No results found.
   Hassan Phiri — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.21499732 · Cited by: 0
 
-- **From Energy Model Outputs to Policy Uptake: Political Economy-Informed Energy System Modelling in Developing Countries**  
+- **From energy model outputs to policy uptake: political economy-informed energy system modelling in developing countries**  
   Phemelo Tamasiga, Benard Musekese Wabukala, Bright Mutuma Gitari, et al. — Renewable and Sustainable Energy Transition — 2026  
   DOI: https://doi.org/10.1016/j.rset.2026.100172 · Cited by: 0
 
