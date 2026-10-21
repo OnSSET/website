@@ -428,7 +428,7 @@ No results found.
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
-  DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 16
+  DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 17
 
 - **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
@@ -438,13 +438,13 @@ No results found.
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 13
 
+- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
+  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
+  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
+
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Hendrik Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
   DOI: https://doi.org/10.1088/2516-1083/ad31b7 · Cited by: 9
-
-- **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
-  Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 9
 
 - **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
