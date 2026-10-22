@@ -78,10 +78,6 @@ No results found.
   AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
-- **Optimization Dispatch Strategy for Interconnected Shared Energy Storage Systems in Distribution Transformers Based on Regional Dynamic Partitioning**  
-  Ze’ang Ma, Jie Chen, Shuai Lyu — Energy Engineering — 2026  
-  DOI: https://doi.org/10.32604/ee.2026.076832 · Cited by: 0
-
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
@@ -225,6 +221,14 @@ No results found.
 - **Final_Ebisa Regasa, Ethiopia(case Oromia using ONSSET)**  
   Ebisa Ragasa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490999 · Cited by: 0
+
+- **Energy transition pathways in the WAPP region**  
+  Cheikh Mouhamed Fadel Kébé, Babacar Mbaye Ndiaye, Sébastien A. Dan-Baibe, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23496199 · Cited by: 0
+
+- **Energy Transition Pathways for EAPP Region: Case Study Reports**  
+  Kanchwodia Gashaw, Hermela Fantu, Adugnaw Lake Temesgen, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23496493 · Cited by: 0
 
 - **Energy supply and public sector performance in Calabar municipality, Cross River State- Nigeria**  
   Itojong Anthony AYAMBA, Christiana Efiong Awatt, Sylvester Effefiom Nsa, et al. — World Journal of Advanced Research and Reviews — 2026  
@@ -438,6 +442,10 @@ No results found.
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 13
 
+- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
+  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
+  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
+
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
@@ -489,12 +497,4 @@ No results found.
 - **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
   Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
   DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 9
-
-- **Exploring long-term electrification pathway dynamics: a case study of Ethiopia**  
-  Andreas Sahlberg, Will Usher, Ioannis Pappis, et al. — Discover Energy — 2023  
-  DOI: https://doi.org/10.1007/s43937-023-00014-4 · Cited by: 9
-
-- **Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines**  
-  Andreas Sahlberg, Babak Khavari, Ismail Mohamed, et al. — Energies — 2023  
-  DOI: https://doi.org/10.3390/en16186489 · Cited by: 9
 
