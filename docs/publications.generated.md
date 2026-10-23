@@ -78,6 +78,10 @@ No results found.
   AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
+- **Optimization Dispatch Strategy for Interconnected Shared Energy Storage Systems in Distribution Transformers Based on Regional Dynamic Partitioning**  
+  Ze’ang Ma, Jie Chen, Shuai Lyu — Energy Engineering — 2026  
+  DOI: https://doi.org/10.32604/ee.2026.076832 · Cited by: 0
+
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
@@ -441,10 +445,6 @@ No results found.
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 13
-
-- **Comprehensive energy solution planning (CESP) framework: an evidence-based approach for sustainable energy access projects in developing countries**  
-  Emanuela Colombo, Giacomo Crevani, Nicolò Stevanato, et al. — Environmental Research Letters — 2024  
-  DOI: https://doi.org/10.1088/1748-9326/ad41ef · Cited by: 10
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
