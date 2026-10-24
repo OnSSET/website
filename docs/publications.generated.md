@@ -78,10 +78,6 @@ No results found.
   AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
-- **Optimization Dispatch Strategy for Interconnected Shared Energy Storage Systems in Distribution Transformers Based on Regional Dynamic Partitioning**  
-  Ze’ang Ma, Jie Chen, Shuai Lyu — Energy Engineering — 2026  
-  DOI: https://doi.org/10.32604/ee.2026.076832 · Cited by: 0
-
 - **OnSSET Badge Concept Note 2026**  
   Nicky Middleton — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18353642 · Cited by: 0
@@ -149,6 +145,10 @@ No results found.
 - **Least-Cost Electrification Pathways for Universal Electricity Access in Rwanda: An OnSSET Modelling Analysis**  
   Jovine NSEKANABANGA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.21510646 · Cited by: 0
+
+- **Least-Cost Electrification Pathways for Cambodia: Geospatial Analysis Using OnSSET**  
+  Coralie Kowalski — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23556530 · Cited by: 0
 
 - **Least-Cost Electrification Analysis for the State of Caquetá, Colombia**  
   ACOSTA ESTEBAN, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -250,9 +250,33 @@ No results found.
   Nawaz Muhammd Saad, Shafqat Mubeen — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18503217 · Cited by: 0
 
+- **Electrifying Maluku by 2030: least-cost pathways under four scenarios**  
+  Dinita Setyawati — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23556386 · Cited by: 0
+
+- **Electrifying Maluku by 2030**  
+  Dinita Setyawati — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23556446 · Cited by: 0
+
 - **ELECTRIFICATION PLANNING FOR ZAMBIA USING OPEN-SOURCE SPATIAL ELECTRIFICATION TOOL (OnSSET)**  
   Brian Siakweenda, Rejoice Mututsa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18504702 · Cited by: 0
+
+- **Electrification Pathways for Kalimantan: OnSSET Scenarios to 2034**  
+  Fajril Mardiansah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23557723 · Cited by: 0
+
+- **Electrification Pathways for Kalimantan to 2034 - OnSSET Scenario Analysis**  
+  Fajril Mardiansah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23557575 · Cited by: 0
+
+- **Electrification Access Planning for Fiji Using OnSSET**  
+  Vishal Prasad, Noel Nischal Gaundan — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23556700 · Cited by: 0
+
+- **Electrification Access Planning for Fiji Using OnSSET**  
+  Vishal Prasad, Noel Nischal Gaundan — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.23556349 · Cited by: 0
 
 - **Development of a Just Energy Plan: The Case of Makueni County, Kenya**  
   Sarah Anyango Odera, Camilo Ramírez, Dimitris Mentis, et al. — SSRN Electronic Journal — 2026  
@@ -473,28 +497,4 @@ No results found.
 - **A Review of Energy Demands and its’ Implication on Climate Change in Africa**  
   Godsday Idanegbe Usiabulu, Peter Sydney Aprioku, Ogechi Okoye, et al. — Journal of Engineering Research and Reports — 2024  
   DOI: https://doi.org/10.9734/jerr/2024/v26i11066 · Cited by: 1
-
-- **Achieving renewable energy-centered sustainable development futures for rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, Gregory Ireland, et al. — 2024  
-  DOI: https://doi.org/10.5194/egusphere-egu24-15943 · Cited by: 0
-
-- **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
-  Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
-  DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 74
-
-- **Towards achieving Sustainable Development Goal 7 in sub‐Saharan Africa: Role of governance and renewable energy**  
-  Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 64
-
-- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
-  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 30
-
-- **Real Options and their application in renewable energy projects. State-of-the-art review**  
-  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Región Científica — 2023  
-  DOI: https://doi.org/10.58763/rc202349 · Cited by: 10
-
-- **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
-  Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2023  
-  DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 9
 
