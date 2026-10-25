@@ -26,10 +26,6 @@ No results found.
   Joseph Mpeera Ntayi, Sylvia Manjeri Aarakit, Herbert Murungi, et al. — Energy Research & Social Science — 2026  
   DOI: https://doi.org/10.1016/j.erss.2026.104540 · Cited by: 1
 
-- **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
-  Wyatt Arnold, Matteo Giuliani, Andrea Francesco Castelletti — Nature Water — 2026  
-  DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 1
-
 - **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 1
@@ -472,7 +468,7 @@ No results found.
 
 - **Analyzing grid extension suitability: A case study of Ethiopia using OnSSET**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Erik O. Ahlgren — Energy Strategy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 10
+  DOI: https://doi.org/10.1016/j.esr.2023.101292 · Cited by: 11
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Hendrik Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
@@ -497,4 +493,8 @@ No results found.
 - **A Review of Energy Demands and its’ Implication on Climate Change in Africa**  
   Godsday Idanegbe Usiabulu, Peter Sydney Aprioku, Ogechi Okoye, et al. — Journal of Engineering Research and Reports — 2024  
   DOI: https://doi.org/10.9734/jerr/2024/v26i11066 · Cited by: 1
+
+- **Achieving renewable energy-centered sustainable development futures for rural Africa**  
+  Giacomo Falchetta, Adriano Vinca, Gregory Ireland, et al. — 2024  
+  DOI: https://doi.org/10.5194/egusphere-egu24-15943 · Cited by: 0
 
