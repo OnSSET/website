@@ -30,6 +30,10 @@ No results found.
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 1
 
+- **A typology of government strategies for renewable energy investments in Africa: A comparative analysis of Ethiopia, Morocco, Nigeria, and South Africa**  
+  Uduak S. Akpan — Energy Policy — 2026  
+  DOI: https://doi.org/10.1016/j.enpol.2026.115414 · Cited by: 1
+
 - **Techno-Economic Analysis of Least-Cost Technology Solutions for Expanding Electricity Access in Ecuador**  
   ALEXANDRA FALCON MENDOZA, José Herrera-Perez, Jorge Hernández-Ambato, et al. — Communications in computer and information science — 2026  
   DOI: https://doi.org/10.1007/978-3-032-16851-1_23 · Cited by: 0
@@ -454,10 +458,6 @@ No results found.
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
   DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 17
 
-- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
-  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 15
-
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 13
@@ -490,11 +490,11 @@ No results found.
   Godsday Idanegbe Usiabulu, Peter Sydney Aprioku, Ogechi Okoye, et al. — Journal of Engineering Research and Reports — 2024  
   DOI: https://doi.org/10.9734/jerr/2024/v26i11066 · Cited by: 1
 
-- **Achieving renewable energy-centered sustainable development futures for rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, Gregory Ireland, et al. — 2024  
-  DOI: https://doi.org/10.5194/egusphere-egu24-15943 · Cited by: 0
-
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 74
+
+- **Towards achieving Sustainable Development Goal 7 in sub‐Saharan Africa: Role of governance and renewable energy**  
+  Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
+  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 65
 
