@@ -346,10 +346,6 @@ No results found.
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 7
 
-- **Techno-Economic Comparison of Microgrids and Traditional Grid Expansion: A Case Study of Myanmar**  
-  Thet Thet Oo, Kang-wook Cho, Soojin Park — Energies — 2025  
-  DOI: https://doi.org/10.3390/en18184988 · Cited by: 5
-
 - **High-resolution global pathways to achieve 100% electricity access in 2030**  
   Victhalia Zapata, Anteneh G. Dagnachew, Oreane Y. Edelenbosch, et al. — Scientific Reports — 2025  
   DOI: https://doi.org/10.1038/s41598-025-23857-4 · Cited by: 5
@@ -497,4 +493,8 @@ No results found.
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
   DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 31
+
+- **Real Options and their application in renewable energy projects. State-of-the-art review**  
+  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Región Científica — 2023  
+  DOI: https://doi.org/10.58763/rc202349 · Cited by: 10
 
