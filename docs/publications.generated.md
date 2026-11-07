@@ -403,7 +403,7 @@ No results found.
   DOI: https://doi.org/10.22178/pos.123-2 · Cited by: 0
 
 - **Integrerad geospatial och långsiktig elplanering för universell tillgång och avkarbonisering i Burkina Faso**  
-  Thompson, Samuel Samon Chandon — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
+  Thompson, Samuel Samon Chandon — Diva portal (Dalarna University Library) — 2025  
   OpenAlex: https://openalex.org/W7111664041 · Cited by: 0
 
 - **Geospatial planning for the rural electrification of the Amazon - Suriname case study**  
@@ -419,7 +419,7 @@ No results found.
   DOI: https://doi.org/10.2139/ssrn.5213776 · Cited by: 0
 
 - **Developing a Climate-Aligned Long-Term Energy Systems Model for Madagascar : Integrating OSeMOSYS and OnSSET for Low-Carbon Electrification Planning**  
-  Ifeanyi, Godswill Ebuka — KTH Publication Database DiVA (KTH Royal Institute of Technology) — 2025  
+  Ifeanyi, Godswill Ebuka — Diva portal (Dalarna University Library) — 2025  
   OpenAlex: https://openalex.org/W7112351769 · Cited by: 0
 
 - **Data-to-Deal: Component 4. Modelling: Undertaking Deliberative Modelling – A Best Practice Brief.**  
@@ -438,17 +438,21 @@ No results found.
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 96
 
+- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
+  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
+  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 19
+
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
   DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 18
 
-- **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
-  Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
-  DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 18
-
 - **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 17
+
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 15
 
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
@@ -493,8 +497,4 @@ No results found.
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
   DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 32
-
-- **Real Options and their application in renewable energy projects. State-of-the-art review**  
-  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Región Científica — 2023  
-  DOI: https://doi.org/10.58763/rc202349 · Cited by: 13
 
