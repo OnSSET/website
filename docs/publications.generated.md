@@ -183,12 +183,12 @@ No results found.
   DOI: https://doi.org/10.5281/zenodo.18503440 · Cited by: 0
 
 - **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
-  ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.18502895 · Cited by: 0
-
-- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
   ELISE MULUNGO, DANIEL KALALIZI — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18493768 · Cited by: 0
+
+- **Geospatial Modeling for Electrification Planning in the Democratic Republic of the Congo Using OnSSET**  
+  ELISE MULUNGO, DANIEL KALALIZI, ERIC KAYEMBE, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  DOI: https://doi.org/10.5281/zenodo.18502895 · Cited by: 0
 
 - **GEOSPATIAL ELECTRIFICATION SCENARIO MODELLING FOR ZAMBIA USING ONSSET**  
   Stella Chelangat Mutai, Nicky Middleton, Rejoice Mututsa, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -342,6 +342,10 @@ No results found.
   Adugnaw Lake Temesgen, Getachew Bekele — Discover Energy — 2025  
   DOI: https://doi.org/10.1007/s43937-025-00073-9 · Cited by: 12
 
+- **The pivotal role of open source knowledge transfer to achieve universal energy access**  
+  Sanli Faez, Vivien Barnier, Dimitrios Mentis — iScience — 2025  
+  DOI: https://doi.org/10.1016/j.isci.2025.112093 · Cited by: 8
+
 - **A geospatial perspective on electrification strategy in urbanizing Africa**  
   Jessica Kersey, Samuel B. Miles, Vivek Sakhrani, et al. — Applied Geography — 2025  
   DOI: https://doi.org/10.1016/j.apgeog.2025.103647 · Cited by: 8
@@ -353,10 +357,6 @@ No results found.
 - **The Striking Impact of Natural Hazard Risk on Global Green Hydrogen Cost**  
   Maximilian Stargardt, Justus Hugenberg, Winkler, Christoph, et al. — RePEc: Research Papers in Economics — 2025  
   DOI: https://doi.org/10.48550/arxiv.2503.16009 · Cited by: 4
-
-- **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
-  Nandi Moksnes, Will Usher — iScience — 2025  
-  DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 4
 
 - **Prioritizing projects in rural electrification planning: Integrating MAUT with OnSSET**  
   Salisu R. Isihak, Uduak S. Akpan, Subhes Bhattarcharyya — Energy Strategy Reviews — 2025  
@@ -482,6 +482,10 @@ No results found.
   С.С. Трунов, A. V. Krupnov — Bulletin of the Tver State Technical University Series «Building Electrical engineering and chemical technology» — 2024  
   DOI: https://doi.org/10.46573/2658-7459-2024-1-57-74 · Cited by: 1
 
+- **Achieving renewable energy-centered sustainable development futures for rural Africa**  
+  Giacomo Falchetta, Adriano Vinca, Gregory Ireland, et al. — EGU General Assembly Conference Abstracts — 2024  
+  DOI: https://doi.org/10.5194/egusphere-egu24-15943 · Cited by: 1
+
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 85
@@ -493,8 +497,4 @@ No results found.
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
   DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 40
-
-- **Real Options and their application in renewable energy projects. State-of-the-art review**  
-  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Región Científica — 2023  
-  DOI: https://doi.org/10.58763/rc202349 · Cited by: 14
 
