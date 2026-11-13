@@ -66,6 +66,10 @@ No results found.
   Kanchwodia Gashaw, Hermela Fantu, Tinsae Wondimu, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18888176 · Cited by: 0
 
+- **Potential assessment of rooftop photovoltaic in global cities considering economic feasibility**  
+  Yukan Jin, Yihua Hu, Tingting He, et al. — npj Clean Energy — 2026  
+  DOI: https://doi.org/10.1038/s44406-026-00050-8 · Cited by: 0
+
 - **Peeling off the layers: A geospatial modeling framework for ex-ante assessment of electrification subsidy schemes uncovers their inefficiencies and implications for equitable rural electrification in Sierra Leone**  
   Lefu Maqelepo, Jay Taneja, Nathan Williams — The Electricity Journal — 2026  
   DOI: https://doi.org/10.1016/j.tej.2026.107570 · Cited by: 0
@@ -100,11 +104,11 @@ No results found.
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21496003 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21509579 · Cited by: 0
 
 - **MALAWI'S GEOSPATIAL MODELLING FOR ELECTRIFICATION PLANNING USING ONSSET**  
   Peter Mbisah — Zenodo (CERN European Organization for Nuclear Research) — 2026  
-  DOI: https://doi.org/10.5281/zenodo.21509579 · Cited by: 0
+  DOI: https://doi.org/10.5281/zenodo.21496003 · Cited by: 0
 
 - **Linkage_scripts_OnSSET**  
   Luis Olmos, Michele Vittorio, Giulia Vaglietti — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -221,6 +225,10 @@ No results found.
 - **Final_Ebisa Regasa, Ethiopia(case Oromia using ONSSET)**  
   Ebisa Ragasa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490999 · Cited by: 0
+
+- **Federated learning reconciles data sovereignty with collaborative energy-transition modelling across the Global South: a public-data benchmark anchored in Indonesia**  
+  Sumartono Darmanto — Research Square — 2026  
+  DOI: https://doi.org/10.21203/rs.3.rs-10722871/v1 · Cited by: 0
 
 - **Energy transition pathways in the WAPP region**  
   Cheikh Mouhamed Fadel Kébé, Babacar Mbaye Ndiaye, Sébastien A. Dan-Baibe, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
@@ -436,19 +444,19 @@ No results found.
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 103
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 104
 
 - **The impacts of incentive policies on improving private investment for rural electrification in Nigeria – A geospatial study**  
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
   DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 21
 
+- **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
+  Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
+  DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 19
+
 - **Generation capacity expansion planning with spatially-resolved electricity demand and increasing variable renewable energy supply: Perspectives from power pooling in West Africa**  
   Mounirah Bissiri, Pedro Moura, Ricardo C. Perez, et al. — Applied Energy — 2024  
   DOI: https://doi.org/10.1016/j.apenergy.2024.123115 · Cited by: 19
-
-- **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
-  Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
-  DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 18
 
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
@@ -489,12 +497,4 @@ No results found.
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 85
-
-- **Towards achieving Sustainable Development Goal 7 in sub‐Saharan Africa: Role of governance and renewable energy**  
-  Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 70
-
-- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
-  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 40
 
