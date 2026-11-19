@@ -146,7 +146,7 @@
   DOI: https://doi.org/10.21203/rs.3.rs-9828710/v1 · Cited by: 0
 
 - **Urban Energy Transitions: A Systematic Review**  
-  Or Yatzkan, Reuven Cohen C, Eyal Yaniv, et al. — Land — 2025  
+  Or Yatzkan, Reuven Cohen, Eyal Yaniv, et al. — Land — 2025  
   DOI: https://doi.org/10.3390/land14030566 · Cited by: 31
 
 - **Off-grid PV systems modelling and optimisation for rural communities - leveraging understandability and interpretability of modelling tools**  
@@ -229,6 +229,10 @@
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101931 · Cited by: 3
 
+- **An empirical assessment of community energy injustice in Makueni, Kenya**  
+  Sarah Anyango Odera, Jiska de Groot, Debbie Sparks, et al. — Environmental Research Energy — 2025  
+  DOI: https://doi.org/10.1088/2753-3751/ae123c · Cited by: 3
+
 - **Mapping the Future Geoinformatics at the Crossroads of Sustainable Climate Change Resilience**  
   Md. Faruq Hasan, Susmita Sarmin, Atia Shahin, et al. — Advances in environmental engineering and green technologies book series — 2025  
   DOI: https://doi.org/10.4018/979-8-3693-5898-6.ch015 · Cited by: 2
@@ -244,10 +248,6 @@
 - **Applying soft-link and geospatial methods for optimal hybrid microgrids and electric network designs: A case study on rural Mozambique settings**  
   Berino Francisco Silinto, Darlain Irenee Edeme, Silvia Corigliano, et al. — Energy Sustainable Development/Energy for sustainable development — 2025  
   DOI: https://doi.org/10.1016/j.esd.2025.101790 · Cited by: 2
-
-- **An empirical assessment of community energy injustice in Makueni, Kenya**  
-  Sarah Anyango Odera, Jiska de Groot, Debbie Sparks, et al. — Environmental Research Energy — 2025  
-  DOI: https://doi.org/10.1088/2753-3751/ae123c · Cited by: 2
 
 - **The Effect of Solar PV Adoption on Grid Defection: An Agent-Based Analysis for Namibia**  
   Henock Dibaba, Mai ElSayed, Antti Pinomaa, et al. — IEEE PES/IAS PowerAfrica Conference (PowerAfrica) — 2025  
@@ -295,7 +295,7 @@
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 111
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 113
 
 - **Lost in the dark: A survey of energy poverty from space**  
   Brian Min, Zachary P. O’Keeffe, Babatunde Abidoye, et al. — Joule — 2024  
@@ -333,13 +333,13 @@
   Phemelo Tamasiga, Helen N. Onyeaka, Malebogo Bakwena, et al. — International Journal of Sustainable Energy — 2024  
   DOI: https://doi.org/10.1080/14786451.2024.2362334 · Cited by: 20
 
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 20
+
 - **Can renewable energy prosumerism cater for sufficiency and inclusion?**  
   Inês S. Campos, Marius Støylen Korsnes, Nicola Labanca, et al. — Renewable and Sustainable Energy Reviews — 2024  
   DOI: https://doi.org/10.1016/j.rser.2024.114410 · Cited by: 20
-
-- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
-  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
-  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 19
 
 - **Assessing the impacts of irrigation loads and capital subsidies on minigrids: A case study of Kenya**  
   Fhazhil Wamalwa, Reagan Wafula, Charles Kagiri — Renewable energy focus — 2024  
@@ -395,7 +395,7 @@
 
 - **GIS-based multicriteria decision analysis for spatial planning of solar photovoltaic power plants in Çanakkale province, Turkey**  
   Canan Kocabaldır, Mehmet Ali Yücel — Renewable Energy — 2023  
-  DOI: https://doi.org/10.1016/j.renene.2023.05.075 · Cited by: 69
+  DOI: https://doi.org/10.1016/j.renene.2023.05.075 · Cited by: 70
 
 - **An integrated assessment framework of renewable based Microgrid deployment for remote isolated area electrification across different climatic zones and future grid extensions**  
   Z. A. Qureshi, Syed Ali Abbas Kazmi, Safdar Mushtaq, et al. — Sustainable Cities and Society — 2023  
@@ -523,7 +523,7 @@
 
 - **Accounting for finance in electrification models for sub-Saharan Africa**  
   Churchill Agutu, Florian Egli, Nathaniel J. Williams, et al. — Nature Energy — 2022  
-  DOI: https://doi.org/10.1038/s41560-022-01041-6 · Cited by: 78
+  DOI: https://doi.org/10.1038/s41560-022-01041-6 · Cited by: 79
 
 - **Geospatial multi-criteria analysis for identifying optimum wind and solar sites in Africa: Towards effective power sector decarbonization**  
   Jay Rovisham Singh Doorga, Jim W. Hall, Nick Eyre — Renewable and Sustainable Energy Reviews — 2022  
@@ -539,7 +539,7 @@
 
 - **Evolution of GIS-based rural electrification planning models and an application of OnSSET in Nigeria**  
   Salisu R. Isihak, Uduak S. Akpan, Subhes C. Bhattacharyya — Renewable and Sustainable Energy Transition — 2022  
-  DOI: https://doi.org/10.1016/j.rset.2022.100019 · Cited by: 47
+  DOI: https://doi.org/10.1016/j.rset.2022.100019 · Cited by: 49
 
 - **Enhancing sustainable development via low carbon energy transition approaches**  
   Alwin Long, Mazlin Bin MOKHTAR, Minhaz Farid Ahmed, et al. — Journal of Cleaner Production — 2022  
@@ -1030,10 +1030,6 @@
   Ebisa Ragasa — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.18490999 · Cited by: 0
 
-- **Federated learning reconciles data sovereignty with collaborative energy-transition modelling across the Global South: a public-data benchmark anchored in Indonesia**  
-  Sumartono Darmanto — Research Square — 2026  
-  DOI: https://doi.org/10.21203/rs.3.rs-10722871/v1 · Cited by: 0
-
 - **Energy transition pathways in the WAPP region**  
   Cheikh Mouhamed Fadel Kébé, Babacar Mbaye Ndiaye, Sébastien A. Dan-Baibe, et al. — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.23496199 · Cited by: 0
@@ -1182,6 +1178,10 @@
   Douglas Ronoh, Mentis Mentis, Sarah Anyango Odera, et al. — 2025  
   DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 5
 
+- **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
+  Nandi Moksnes, Will Usher — iScience — 2025  
+  DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 4
+
 - **Integrated geospatial modelling for the achievement of universal energy access in Kenya**  
   Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
   DOI: https://doi.org/10.1038/s44406-025-00017-1 · Cited by: 4
@@ -1240,7 +1240,7 @@
 
 - **Hybrid renewable energy systems for rural electrification in developing countries: A review on energy system models and spatial explicit modelling tools**  
   Berino Francisco Silinto, Claudia Yamu, Christian Zuidema, et al. — Renewable and Sustainable Energy Reviews — 2024  
-  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 111
+  DOI: https://doi.org/10.1016/j.rser.2024.114916 · Cited by: 113
 
 - **Leapfrogging the darkness: contextualising the meaning of energy transitions for African countries**  
   Sebastian Hendrik Sterl, Rebekah G. Shirley, Mary Githinji, et al. — Progress in Energy — 2024  
