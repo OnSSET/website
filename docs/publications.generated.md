@@ -21,6 +21,10 @@
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 3
 
+- **Nationalist versus regional approaches for increased battery mineral value addition in Southern Africa**  
+  Karla Cervantes Barron, Raghav Pant, Baptiste Andrieu, et al. — Research Square — 2026  
+  DOI: https://doi.org/10.21203/rs.3.rs-9179870/v1 · Cited by: 2
+
 - **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
   Wyatt Arnold, Matteo Giuliani, Andrea Francesco Castelletti — Nature Water — 2026  
   DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 2
@@ -40,10 +44,6 @@
 - **Responsible Artificial Intelligence for Earth observation: human rights and the EU AI act**  
   Caroline Margaux Gevaert, Sanja Šćepanović, Nadia Bernaz, et al. — AI and Ethics — 2026  
   DOI: https://doi.org/10.1007/s43681-026-01149-5 · Cited by: 1
-
-- **Nationalist versus regional approaches for increased battery mineral value addition in Southern Africa**  
-  Karla Cervantes Barron, Raghav Pant, Baptiste Andrieu, et al. — Research Square — 2026  
-  DOI: https://doi.org/10.21203/rs.3.rs-9179870/v1 · Cited by: 1
 
 - **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
@@ -301,13 +301,13 @@
   Brian Min, Zachary P. O’Keeffe, Babatunde Abidoye, et al. — Joule — 2024  
   DOI: https://doi.org/10.1016/j.joule.2024.05.001 · Cited by: 82
 
-- **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
-  Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
-  DOI: https://doi.org/10.3390/en17235984 · Cited by: 45
-
 - **MESSAGEix-GLOBIOM nexus module: integrating water sector and climate impacts**  
   Muhammad Awais, Adriano Vinca, Edward A. Byers, et al. — Geoscientific model development — 2024  
-  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 45
+  DOI: https://doi.org/10.5194/gmd-17-2447-2024 · Cited by: 48
+
+- **Role of AI and IoT in Advancing Renewable Energy Use in Agriculture**  
+  Mangirdas Morkūnas, Yufei Wang, Jinzhao Wei — Energies — 2024  
+  DOI: https://doi.org/10.3390/en17235984 · Cited by: 46
 
 - **Electrification Planning for Off-Grid Communities in Sub-Saharan Africa: Advancing Energy Access**  
   Bertha Lwakatare, Priyanka Vyavahare, Kedar Mehta, et al. — Energies — 2024  
@@ -325,13 +325,13 @@
   Munir Husein, Magda Moner‐Girona, Giacomo Falchetta, et al. — Heliyon — 2024  
   DOI: https://doi.org/10.1016/j.heliyon.2024.e27440 · Cited by: 22
 
+- **Pricing the future: unveiling the effects of carbon pricing on socio-economic outcomes and energy poverty**  
+  Phemelo Tamasiga, Helen N. Onyeaka, Malebogo Bakwena, et al. — International Journal of Sustainable Energy — 2024  
+  DOI: https://doi.org/10.1080/14786451.2024.2362334 · Cited by: 22
+
 - **The potential of electric agriculture and mobility for the least-cost rural electrification strategy in Sub-Saharan Africa**  
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 21
-
-- **Pricing the future: unveiling the effects of carbon pricing on socio-economic outcomes and energy poverty**  
-  Phemelo Tamasiga, Helen N. Onyeaka, Malebogo Bakwena, et al. — International Journal of Sustainable Energy — 2024  
-  DOI: https://doi.org/10.1080/14786451.2024.2362334 · Cited by: 20
 
 - **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
   Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
@@ -415,7 +415,7 @@
 
 - **Enabling factors for the development of mini-grid solutions in Mozambique: A PESTLE-based analysis**  
   Castro Antonio Soares, Diana Shendrikova, Giacomo Crevani, et al. — Energy Strategy Reviews — 2023  
-  DOI: https://doi.org/10.1016/j.esr.2022.101040 · Cited by: 26
+  DOI: https://doi.org/10.1016/j.esr.2022.101040 · Cited by: 27
 
 - **Increasing spatial and temporal resolution in energy system optimisation model – The case of Kenya**  
   Nandi Moksnes, Mark Howells, Will Usher — Energy Strategy Reviews — 2023  
@@ -427,7 +427,7 @@
 
 - **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
   Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
-  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 12
+  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 13
 
 - **A planar facility location–allocation problem with fixed and/or variable cost structures for rural electrification**  
   Beste Akbaş, Ayse Selin Kocaman — Computers & Operations Research — 2023  
@@ -515,7 +515,7 @@
 
 - **Harnessing finance for a new era of decentralised electricity access: A review of private investment patterns and emerging business models**  
   Giacomo Falchetta, Bruno Michoud, Manfred Häfner, et al. — Energy Research & Social Science — 2022  
-  DOI: https://doi.org/10.1016/j.erss.2022.102587 · Cited by: 89
+  DOI: https://doi.org/10.1016/j.erss.2022.102587 · Cited by: 90
 
 - **Regional cooperation for mitigating energy poverty in Sub-Saharan Africa: A context-based approach through the tripartite lenses of access, sufficiency, and mobility**  
   Chukwuka G. Monyei, Kingsley O. Akpeji, Olamide Oladeji, et al. — Renewable and Sustainable Energy Reviews — 2022  
@@ -655,7 +655,7 @@
 
 - **Grid versus off-grid electricity access options: A review on the economic and environmental impacts**  
   Paloma Ortega-Arriaga, Oytun Babacan, Jenny Nelson, et al. — Renewable and Sustainable Energy Reviews — 2021  
-  DOI: https://doi.org/10.1016/j.rser.2021.110864 · Cited by: 122
+  DOI: https://doi.org/10.1016/j.rser.2021.110864 · Cited by: 123
 
 - **The role of regulatory, market and governance risk for electricity access investment in sub-Saharan Africa**  
   Giacomo Falchetta, Anteneh G. Dagnachew, Andries F. Hof, et al. — Energy Sustainable Development/Energy for sustainable development — 2021  
@@ -822,17 +822,13 @@
   Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
   DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 3
 
-- **A typology of government strategies for renewable energy investments in Africa: A comparative analysis of Ethiopia, Morocco, Nigeria, and South Africa**  
-  Uduak S. Akpan — Energy Policy — 2026  
-  DOI: https://doi.org/10.1016/j.enpol.2026.115414 · Cited by: 2
+- **Nationalist versus regional approaches for increased battery mineral value addition in Southern Africa**  
+  Karla Cervantes Barron, Raghav Pant, Baptiste Andrieu, et al. — Research Square — 2026  
+  DOI: https://doi.org/10.21203/rs.3.rs-9179870/v1 · Cited by: 2
 
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
   DOI: https://doi.org/10.1016/j.esr.2025.102015 · Cited by: 1
-
-- **Nationalist versus regional approaches for increased battery mineral value addition in Southern Africa**  
-  Karla Cervantes Barron, Raghav Pant, Baptiste Andrieu, et al. — Research Square — 2026  
-  DOI: https://doi.org/10.21203/rs.3.rs-9179870/v1 · Cited by: 1
 
 - **Long-term least-cost geospatial electrification planning to bridge the electricity access gap: the case of Ethiopia**  
   Adugnaw Lake Temesgen, Yibeltal T. Wassie, Getachew Bekele, et al. — Environmental Research Infrastructure and Sustainability — 2026  
@@ -1178,10 +1174,6 @@
   Douglas Ronoh, Mentis Mentis, Sarah Anyango Odera, et al. — 2025  
   DOI: https://doi.org/10.46830/wripn.23.00040 · Cited by: 5
 
-- **The relative importance of uncertain parameters and structural formulation for electricity systems planning in Kenya and Benin**  
-  Nandi Moksnes, Will Usher — iScience — 2025  
-  DOI: https://doi.org/10.1016/j.isci.2025.111792 · Cited by: 4
-
 - **Integrated geospatial modelling for the achievement of universal energy access in Kenya**  
   Babak Khavari, Andreas Sahlberg, Camilo Ramírez, et al. — npj Clean Energy — 2025  
   DOI: https://doi.org/10.1038/s44406-025-00017-1 · Cited by: 4
@@ -1286,11 +1278,19 @@
   С.С. Трунов, A. V. Krupnov — Bulletin of the Tver State Technical University Series «Building Electrical engineering and chemical technology» — 2024  
   DOI: https://doi.org/10.46573/2658-7459-2024-1-57-74 · Cited by: 1
 
-- **Achieving renewable energy-centered sustainable development futures for rural Africa**  
-  Giacomo Falchetta, Adriano Vinca, Gregory Ireland, et al. — EGU General Assembly Conference Abstracts — 2024  
-  DOI: https://doi.org/10.5194/egusphere-egu24-15943 · Cited by: 1
-
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 88
+
+- **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
+  Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 49
+
+- **Real Options and their application in renewable energy projects. State-of-the-art review**  
+  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Región Científica — 2023  
+  DOI: https://doi.org/10.58763/rc202349 · Cited by: 17
+
+- **Ranking projects in regional electrification plans considering technical and social criteria. Case study in Mexico**  
+  Dorian Francisco Gómez Hernández, Bruno Domenech, Marc Juanpera, et al. — Energy Sustainable Development/Energy for sustainable development — 2023  
+  DOI: https://doi.org/10.1016/j.esd.2023.101336 · Cited by: 13
 
