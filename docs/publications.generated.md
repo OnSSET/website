@@ -17,6 +17,10 @@
   Joseph Mpeera Ntayi, Sylvia Manjeri Aarakit, Herbert Murungi, et al. — Energy Research & Social Science — 2026  
   DOI: https://doi.org/10.1016/j.erss.2026.104540 · Cited by: 3
 
+- **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
+  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
+  DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 3
+
 - **Nationalist versus regional approaches for increased battery mineral value addition in Southern Africa**  
   Karla Cervantes Barron, Raghav Pant, Baptiste Andrieu, et al. — Research Square — 2026  
   DOI: https://doi.org/10.21203/rs.3.rs-9179870/v1 · Cited by: 2
@@ -24,10 +28,6 @@
 - **Balancing equity and efficiency in transboundary water systems with Atkinson’s welfare function**  
   Wyatt Arnold, Matteo Giuliani, Andrea Francesco Castelletti — Nature Water — 2026  
   DOI: https://doi.org/10.1038/s44221-026-00671-4 · Cited by: 2
-
-- **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
-  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
-  DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 2
 
 - **An overview of rural electrification planning in the developing Southeast Asia countries**  
   Bo Li, Xinzheng Fang, Hui Hwang Goh, et al. — Energy Strategy Reviews — 2026  
@@ -246,7 +246,7 @@
   DOI: https://doi.org/10.4018/979-8-3693-5898-6.ch015 · Cited by: 2
 
 - **Influence of Er3+ Ions Doping on Structure and Luminescence of Y2Zr2O7 Nanophosphors Synthesized by a Self-Propagating Urea-Assisted Solution Combustion Process**  
-  Mahesh Matoria, Deepika Dhaterwal, R. Langyan, et al. — Russian Journal of Inorganic Chemistry — 2025  
+  Mahesh Matoria, Deepika Dhaterwal, Ritu Langyan, et al. — Russian Journal of Inorganic Chemistry — 2025  
   DOI: https://doi.org/10.1134/s0036023625603575 · Cited by: 2
 
 - **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
@@ -415,7 +415,7 @@
 
 - **The cost of electrifying all households in 40 Sub-Saharan African countries by 2030**  
   Florian Egli, Churchill Agutu, Bjarne Steffen, et al. — Nature Communications — 2023  
-  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 50
+  DOI: https://doi.org/10.1038/s41467-023-40612-3 · Cited by: 51
 
 - **An integrated assessment framework of renewable based Microgrid deployment for remote isolated area electrification across different climatic zones and future grid extensions**  
   Z. A. Qureshi, Syed Ali Abbas Kazmi, Safdar Mushtaq, et al. — Sustainable Cities and Society — 2023  
@@ -527,7 +527,7 @@
 
 - **The Palgrave Handbook of International Energy Economics**  
   Manfred Häfner, Giacomo Luciani — Springer eBooks — 2022  
-  DOI: https://doi.org/10.1007/978-3-030-86884-0 · Cited by: 162
+  DOI: https://doi.org/10.1007/978-3-030-86884-0 · Cited by: 106
 
 - **Geospatial-assisted multi-criterion analysis of solar and wind power geographical-technical-economic potential assessment**  
   Mohamed R. Elkadeem, Ali Younes, Domenico Mazzeo, et al. — Applied Energy — 2022  
@@ -551,11 +551,11 @@
 
 - **Digitalization in decarbonizing electricity systems – Phenomena, regional aspects, stakeholders, use cases, challenges and policy options**  
   Fabian Heymann, Tatjana Milojevic, Andrei Covatariu, et al. — Energy — 2022  
-  DOI: https://doi.org/10.1016/j.energy.2022.125521 · Cited by: 75
+  DOI: https://doi.org/10.1016/j.energy.2022.125521 · Cited by: 76
 
 - **Evolution of GIS-based rural electrification planning models and an application of OnSSET in Nigeria**  
   Salisu R. Isihak, Uduak S. Akpan, Subhes C. Bhattacharyya — Renewable and Sustainable Energy Transition — 2022  
-  DOI: https://doi.org/10.1016/j.rset.2022.100019 · Cited by: 50
+  DOI: https://doi.org/10.1016/j.rset.2022.100019 · Cited by: 51
 
 - **A renewable energy-centred research agenda for planning and financing Nexus development objectives in rural sub-Saharan Africa**  
   Giacomo Falchetta, Adedoyin Adeleke, Mohammed Awais, et al. — Energy Strategy Reviews — 2022  
@@ -563,7 +563,7 @@
 
 - **Enhancing sustainable development via low carbon energy transition approaches**  
   Alwin Long, Mazlin Bin MOKHTAR, Minhaz Farid Ahmed, et al. — Journal of Cleaner Production — 2022  
-  DOI: https://doi.org/10.1016/j.jclepro.2022.134678 · Cited by: 46
+  DOI: https://doi.org/10.1016/j.jclepro.2022.134678 · Cited by: 47
 
 - **Satellite Data Applications for Sustainable Energy Transitions**  
   Morgan R. Edwards, Tracey Holloway, Robert Bradley Pierce, et al. — Frontiers in Sustainability — 2022  
@@ -675,7 +675,7 @@
 
 - **Grid versus off-grid electricity access options: A review on the economic and environmental impacts**  
   Paloma Ortega-Arriaga, Oytun Babacan, Jenny Nelson, et al. — Renewable and Sustainable Energy Reviews — 2021  
-  DOI: https://doi.org/10.1016/j.rser.2021.110864 · Cited by: 126
+  DOI: https://doi.org/10.1016/j.rser.2021.110864 · Cited by: 127
 
 - **The role of regulatory, market and governance risk for electricity access investment in sub-Saharan Africa**  
   Giacomo Falchetta, Anteneh G. Dagnachew, Andries F. Hof, et al. — Energy Sustainable Development/Energy for sustainable development — 2021  
@@ -691,15 +691,15 @@
 
 - **A critical review of literature on the nexus between central grid and off-grid solutions for expanding access to electricity in Sub-Saharan Africa and South Asia**  
   Subhes C. Bhattacharyya, Debajit Palit — Renewable and Sustainable Energy Reviews — 2021  
-  DOI: https://doi.org/10.1016/j.rser.2021.110792 · Cited by: 89
+  DOI: https://doi.org/10.1016/j.rser.2021.110792 · Cited by: 90
+
+- **Mapping of affordability levels for photovoltaic-based electricity generation in the solar belt of sub-Saharan Africa, East Asia and South Asia**  
+  Sandor Szabo, Irene Pinedo Pascua, Daniel Puig, et al. — Scientific Reports — 2021  
+  DOI: https://doi.org/10.1038/s41598-021-82638-x · Cited by: 75
 
 - **Who is marginalized in energy justice? Amplifying community leader perspectives of energy transitions in Ghana**  
   Erin D. Baker, Destenie S. Nock, Todd Levin, et al. — Energy Research & Social Science — 2021  
   DOI: https://doi.org/10.1016/j.erss.2021.101933 · Cited by: 74
-
-- **Mapping of affordability levels for photovoltaic-based electricity generation in the solar belt of sub-Saharan Africa, East Asia and South Asia**  
-  Sandor Szabo, Irene Pinedo Pascua, Daniel Puig, et al. — Scientific Reports — 2021  
-  DOI: https://doi.org/10.1038/s41598-021-82638-x · Cited by: 74
 
 - **Influence of Electrification Pathways in the Electricity Sector of Ethiopia—Policy Implications Linking Spatial Electrification Analysis and Medium to Long-Term Energy Planning**  
   Ioannis Pappis, Andreas Sahlberg, Tewodros Walle, et al. — Energies — 2021  
@@ -707,7 +707,7 @@
 
 - **The role of residential air circulation and cooling demand for electrification planning: Implications of climate change in sub-Saharan Africa**  
   Giacomo Falchetta, Malcolm Mistry — Energy Economics — 2021  
-  DOI: https://doi.org/10.1016/j.eneco.2021.105307 · Cited by: 55
+  DOI: https://doi.org/10.1016/j.eneco.2021.105307 · Cited by: 56
 
 - **Demonstration of the integrated rural energy planning framework for sustainable energy development in low-income countries: Case studies of rural communities in Nigeria**  
   Blessing Ugwoke, S. Sulemanu, Stefano Paolo Corgnati, et al. — Renewable and Sustainable Energy Reviews — 2021  
@@ -749,21 +749,21 @@
   Babatunde Odetayo, Michael P. Walsh — Energy Policy — 2021  
   DOI: https://doi.org/10.1016/j.enpol.2021.112436 · Cited by: 26
 
+- **Evaluation of Investments in Wind Energy Projects, under Uncertainty. State of the Art Review**  
+  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Applied Sciences — 2021  
+  DOI: https://doi.org/10.3390/app112110213 · Cited by: 24
+
+- **Enhancing energy models with geo-spatial data for the analysis of future electrification pathways: The case of Tanzania**  
+  Matteo Vincenzo Rocco, Elena Fumagalli, Chiara Vigone, et al. — Energy Strategy Reviews — 2021  
+  DOI: https://doi.org/10.1016/j.esr.2020.100614 · Cited by: 24
+
 - **The effects of population aggregation in geospatial electrification planning**  
   Babak Khavari, Andreas Sahlberg, Will Usher, et al. — Energy Strategy Reviews — 2021  
   DOI: https://doi.org/10.1016/j.esr.2021.100752 · Cited by: 23
 
-- **Evaluation of Investments in Wind Energy Projects, under Uncertainty. State of the Art Review**  
-  Benjamín Murgas Téllez, Alvin Henao, Luceny Guzmán Acuña — Applied Sciences — 2021  
-  DOI: https://doi.org/10.3390/app112110213 · Cited by: 23
-
-- **Enhancing energy models with geo-spatial data for the analysis of future electrification pathways: The case of Tanzania**  
-  Matteo Vincenzo Rocco, Elena Fumagalli, Chiara Vigone, et al. — Energy Strategy Reviews — 2021  
-  DOI: https://doi.org/10.1016/j.esr.2020.100614 · Cited by: 23
-
 - **PyPSA meets Africa: Developing an open source electricity network model of the African continent**  
   Desen Kırlı, Johannes S. Hampp, Koen van Greevenbroek, et al. — IEEE AFRICON — 2021  
-  DOI: https://doi.org/10.1109/africon51333.2021.9570911 · Cited by: 19
+  DOI: https://doi.org/10.1109/africon51333.2021.9570911 · Cited by: 21
 
 - **Potential Climate Change Risks to Meeting Zimbabwe’s NDC Goals and How to Become Resilient**  
   Mark Howells, Brent B. Boehlert, Pablo C. Benítez — Energies — 2021  
@@ -818,13 +818,13 @@
   Joseph Mpeera Ntayi, Sylvia Manjeri Aarakit, Herbert Murungi, et al. — Energy Research & Social Science — 2026  
   DOI: https://doi.org/10.1016/j.erss.2026.104540 · Cited by: 3
 
+- **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
+  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
+  DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 3
+
 - **Nationalist versus regional approaches for increased battery mineral value addition in Southern Africa**  
   Karla Cervantes Barron, Raghav Pant, Baptiste Andrieu, et al. — Research Square — 2026  
   DOI: https://doi.org/10.21203/rs.3.rs-9179870/v1 · Cited by: 2
-
-- **Attention to detail: exploring effects of model resolution and complexity in geospatial electrification modelling**  
-  Andreas Sahlberg, Alexandros Korkovelos, Christian Kabongo, et al. — Discover Energy — 2026  
-  DOI: https://doi.org/10.1007/s43937-025-00117-0 · Cited by: 2
 
 - **Scenarios for universal electricity access with spatial changes in urbanisation: The case of Kenya**  
   Cynthia Omondi, Francis Njoka, Francesco Tonini, et al. — Energy Strategy Reviews — 2026  
@@ -875,11 +875,11 @@
   DOI: https://doi.org/10.1016/j.tej.2026.107570 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
-  AGL Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  Allan Guilherme Lima Pena, ALEXANDRA FALCON MENDOZA — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20328727 · Cited by: 0
 
 - **Pathways to Universal Energy Access in Northern Brazil: Modeling with OnSSET**  
-  AGL Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
+  Allan Guilherme Lima Pena — Zenodo (CERN European Organization for Nuclear Research) — 2026  
   DOI: https://doi.org/10.5281/zenodo.20332279 · Cited by: 0
 
 - **OnSSET Badge Concept Note 2026**  
@@ -1103,7 +1103,7 @@
   DOI: https://doi.org/10.5281/zenodo.18504203 · Cited by: 0
 
 - **Corrigendum to “Least-cost electrification pathways for Senegal by 2030: A nationwide analysis using open-source spatial electrification tool (OnSSET)” [Energy Nexus 21 (2026) 100621]**  
-  Adama SARR, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2026  
+  Adama Sarr, Aldo Bischi, Umberto Desideri, et al. — Energy Nexus — 2026  
   DOI: https://doi.org/10.1016/j.nexus.2026.100689 · Cited by: 0
 
 - **Corrigendum to “Climate hazard screening in energy access planning for sub-Saharan Africa” [Sustainable Futures 12 (2026) 102146]**  
@@ -1190,6 +1190,10 @@
   Naomi Tan, Ioannis Vrochidis, Hannah Luscombe, et al. — Energy Strategy Reviews — 2025  
   DOI: https://doi.org/10.1016/j.esr.2025.101981 · Cited by: 3
 
+- **Heuristic Search and Constraint Verification for Value-Centric Electrification Planning**  
+  William Berglund, Andreas Brännström — Lecture notes in computer science — 2025  
+  DOI: https://doi.org/10.1007/978-3-032-11108-1_1 · Cited by: 2
+
 - **OnSSET with spatial changes in urbanisation in Kenya**  
   Cynthia Omondi — Zenodo (CERN European Organization for Nuclear Research) — 2025  
   DOI: https://doi.org/10.5281/zenodo.17961682 · Cited by: 0
@@ -1250,6 +1254,10 @@
   Korbinian Götz, Philipp Rosner, Irénée Froissart, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101581 · Cited by: 21
 
+- **Carbon pricing and system reliability impacts on pathways to universal electricity access in Africa**  
+  Hamish Beath, Shivika Mittal, Sheridan Few, et al. — Nature Communications — 2024  
+  DOI: https://doi.org/10.1038/s41467-024-48450-7 · Cited by: 20
+
 - **GIS-facilitated procedure for optimal rural electrification planning: A case study in Naeder, Ethiopia**  
   Aleksandar Dimovski, Zahra Pezham, Mohammad Hossein Ahmadi, et al. — Energy Sustainable Development/Energy for sustainable development — 2024  
   DOI: https://doi.org/10.1016/j.esd.2024.101520 · Cited by: 18
@@ -1265,10 +1273,6 @@
 - **The role of agriculture for achieving renewable energy-centered sustainable development objectives in rural Africa**  
   Giacomo Falchetta, Adriano Vinca, André Troost, et al. — Environmental Development — 2024  
   DOI: https://doi.org/10.1016/j.envdev.2024.101098 · Cited by: 9
-
-- **Renewable energy planning in Africa: robustness of mean and extreme multi-model climate change patterns in solar PV and wind energy potentials**  
-  Morten Andreas Dahl Larsen, Jean Bournhonesque, Wim Thiery, et al. — Environmental Research Communications — 2024  
-  DOI: https://doi.org/10.1088/2515-7620/ad17d4 · Cited by: 9
 
 - **Optimal Electrification Using Renewable Energies: Microgrid Installation Model with Combined Mixture k-Means Clustering Algorithm, Mixed Integer Linear Programming, and Onsset Method**  
   Kabe Moyème, Yao Bokovi, Kwami Senam Sedzro, et al. — Energies — 2024  
@@ -1289,8 +1293,4 @@
 - **A geospatial approach to understanding clean cooking challenges in sub-Saharan Africa**  
   Babak Khavari, Camilo Ramírez, Marc Jeuland, et al. — Nature Sustainability — 2023  
   DOI: https://doi.org/10.1038/s41893-022-01039-8 · Cited by: 86
-
-- **Towards achieving Sustainable Development Goal 7 in sub‐Saharan Africa: Role of governance and renewable energy**  
-  Anasuya Haldar, Narayan Sethi, Pabitra Kumar Jena, et al. — Sustainable Development — 2023  
-  DOI: https://doi.org/10.1002/sd.2521 · Cited by: 81
 
